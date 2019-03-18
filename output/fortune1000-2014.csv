@@ -1,0 +1,1001 @@
+Rank,Title,Previous Rank,CEO,Address,Website
+1,Wal-Mart Stores,1,C. Douglas McMillon,"702 S.W. Eighth St., Bentonville, AR 72716",www.corporate.walmart.com
+2,Exxon Mobil,2,Rex W. Tillerson,"5959 Las Colinas Blvd., Irving, TX 75039",www.exxonmobil.com
+3,Chevron,3,John S. Watson,"6001 Bollinger Canyon Rd., San Ramon, CA 94583",www.chevron.com
+4,Berkshire Hathaway,5,Warren E. Buffett,"3555 Farnam St., Omaha, NE 68131",www.berkshirehathaway.com
+5,Apple,6,Timothy D. Cook,"1 Infinite Loop, Cupertino, CA 95014",www.apple.com
+6,Phillips 66,4,Greg C. Garland,"3010 Briarpark Dr., Houston, TX 77042",www.phillips66.com
+7,General Motors,7,Mary T. Barra,"300 Renaissance Center, Detroit, MI 48265",www.gm.com
+8,Ford Motor,10,Alan R. Mulally,"1 American Rd., Dearborn, MI 48126",www.ford.com
+9,General Electric,8,Jeffrey R. Immelt,"3135 Easton Turnpike, Fairfield, CT 06828",www.ge.com
+10,Valero Energy,9,Joseph Gorder,"1 Valero Way, San Antonio, TX 78249",www.valero.com
+11,AT&T,11,Randall L. Stephenson,"208 S. Akard St., Dallas, TX 75202",www.att.com
+12,CVS Caremark,13,Larry J. Merlo,"1 CVS Dr., Woonsocket, RI 02895",info.cvscaremark.com
+13,Fannie Mae,12,Timothy J. Mayopoulos,"3900 Wisconsin Ave. N.W., Washington, DC 20016",www.fanniemae.com
+14,UnitedHealth Group,17,Stephen J. Hemsley,"9900 Bren Rd. E., Minnetonka, MN 55343",www.unitedhealthgroup.com
+15,McKesson,14,John H. Hammergren,"1 Post St., San Francisco, CA 94104",www.mckesson.com
+16,Verizon Communications,16,Lowell C. McAdam,"140 West St., New York, NY 10007",www.verizon.com
+17,Hewlett-Packard,15,Margaret C. Whitman,"3000 Hanover St., Palo Alto, CA 94304",www.hp.com
+18,J.P. Morgan Chase & Co.,18,James Dimon,"270 Park Ave., New York, NY 10017",www.jpmorganchase.com
+19,Costco Wholesale,22,W. Craig Jelinek,"999 Lake Dr., Issaquah, WA 98027",www.costco.com
+20,Express Scripts Holding,24,George Paz,"1 Express Way, St. Louis, MO 63121",www.express-scripts.com
+21,Bank of America,21,Brian T. Moynihan,"100 N. Tryon St., Charlotte, NC 28255",www.bankofamerica.com
+22,Cardinal Health,19,George S. Barrett,"7000 Cardinal Place, Dublin, OH 43017",www.cardinal.com
+23,International Business Machines,20,Virginia M. Rometty,"1 New Orchard Rd., Armonk, NY 10504",www.ibm.com
+24,Kroger,23,W. Rodney McMullen,"1014 Vine St., Cincinnati, OH 45202",www.thekrogerco.com
+25,Marathon Petroleum,33,Gary R. Heminger,"539 S. Main St., Findlay, OH 45840",www.marathonpetroleum.com
+26,Citigroup,26,Michael L. Corbat,"399 Park Ave., New York, NY 10022",www.citigroup.com
+27,Archer Daniels Midland,27,Patricia A. Woertz,"4666 Faries Pkwy., Decatur, IL 62526",www.adm.com
+28,AmerisourceBergen,32,Steven H. Collis,"1300 Morris Dr., Chesterbrook, PA 19087",www.amerisourcebergen.com
+29,Wells Fargo,25,John G. Stumpf,"420 Montgomery St., San Francisco, CA 94163",www.wellsfargo.com
+30,Boeing,30,W. James McNerney Jr.,"100 N. Riverside Plaza, Chicago, IL 60606",www.boeing.com
+31,Procter & Gamble,28,Alan G. Lafley,"1 Procter & Gamble Plaza, Cincinnati, OH 45202",www.pg.com
+32,Freddie Mac,31,Donald H. Layton,"8200 Jones Branch Dr., McLean, VA 22102",www.freddiemac.com
+33,Home Depot,34,Francis S. Blake,"2455 Paces Ferry Rd. N.W., Atlanta, GA 30339",www.homedepot.com
+34,Microsoft,35,Satya Nadella,"1 Microsoft Way, Redmond, WA 98052",www.microsoft.com
+35,Amazon.com,49,Jeffrey P. Bezos,"410 Terry Ave. N., Seattle, WA 98109",www.amazon.com
+36,Target,36,"John J. Mulligan, Interim CEO","1000 Nicollet Mall, Minneapolis, MN 55403",www.target.com
+37,Walgreen Co.,37,Gregory D. Wasson,"108 Wilmot Rd., Deerfield, IL 60015",www.walgreens.com
+38,WellPoint,47,Joseph R. Swedish,"120 Monument Circle, Indianapolis, IN 46204",www.wellpoint.com
+39,Johnson & Johnson,41,Alex Gorsky,"1 Johnson & Johnson Plaza, New Brunswick, NJ 08933",www.jnj.com
+40,American International Group,38,Robert H. Benmosche,"175 Water St., New York, NY 10038",www.aig.com
+41,State Farm Insurance Cos.,44,Edward B. Rust Jr.,"1 State Farm Plaza, Bloomington, IL 61710",www.statefarm.com
+42,MetLife,40,Steven A. Kandarian,"200 Park Ave., New York, NY 10166",www.metlife.com
+43,PepsiCo,43,Indra K. Nooyi,"700 Anderson Hill Rd., Purchase, NY 10577",www.pepsico.com
+44,Comcast,46,Brian L. Roberts,"1 Comcast Center, Philadelphia, PA 19103",www.comcastcorporation.com
+45,United Technologies,50,Louis R. Chênevert,"1 Financial Plaza, Hartford, CT 06101",www.utc.com
+46,Google,55,Larry Page,"1600 Amphitheatre Pkwy., Mountain View, CA 94043",www.google.com
+47,ConocoPhillips,45,Ryan M. Lance,"600 N. Dairy Ashford St. , Houston, TX 77079",www.conocophillips.com
+48,Dow Chemical,52,Andrew N. Liveris,"2030 Dow Center, Midland, MI 48674",www.dow.com
+49,Caterpillar,42,Douglas R. Oberhelman,"100 N.E. Adams St., Peoria, IL 61629",www.caterpillar.com
+50,United Parcel Service,53,D. Scott Davis,"55 Glenlake Pkwy. N.E., Atlanta, GA 30328",www.ups.com
+51,Pfizer,48,Ian C. Read,"235 E. 42nd St., New York, NY 10017",www.pfizer.com
+52,Lowe’s Companies,56,Robert A. Niblock,"1000 Lowe's Blvd., Mooresville, NC 28117",www.lowes.com
+53,Intel Corporation,54,Brian Krzanich,"2200 Mission College Blvd., Santa Clara, CA 95054",www.intel.com
+54,"Energy Transfer Equity, L.P.",161,John W. McReynolds,"3738 Oak Lawn Ave., Dallas, TX 75219",www.energytransfer.com
+55,"Cisco Systems, Inc.",60,John T. Chambers,"170 W. Tasman Dr., San Jose, CA 95134",www.cisco.com
+56,Enterprise Products Partners L.P.,64,Michael A. Creel,"1100 Louisiana St., Houston, TX 77002",www.enterpriseproducts.com
+57,Aetna Inc.,84,Mark T. Bertolini,"151 Farmington Ave., Hartford, CT 06156",www.aetna.com
+58,The Coca-Cola Company,57,Muhtar Kent,"1 Coca-Cola Plaza, Atlanta, GA 30313",www.coca-colacompany.com
+59,Lockheed Martin Corporation,59,Marillyn A. Hewson,"6801 Rockledge Dr., Bethesda, MD 20817",www.lockheedmartin.com
+60,"Best Buy Co., Inc.",61,Hubert B. Joly,"7601 Penn Ave. S., Richfield, MN 55423",www.bestbuy.com
+61,The Walt Disney Company,66,Robert A. Iger,"500 S. Buena Vista St., Burbank, CA 91521",www.disney.com
+62,CHS Inc.,69,Carl M. Casale,"5500 Cenex Dr., Inver Grove Heights, MN 55077",www.chsinc.com
+63,Sysco Corporation,65,William J. DeLaney III,"1390 Enclave Pkwy., Houston, TX 77077",www.sysco.com
+64,FedEx Corporation,63,Frederick W. Smith,"942 S. Shady Grove Rd., Memphis, TN 38120",www.fedex.com
+65,"Merck & Co., Inc.",58,Kenneth C. Frazier,"1 Merck Dr., Whitehouse Station, NJ 08889",www.merck.com
+66,INTL FCStone Inc.,39,Sean M. O'Connor,"708 Third Ave., New York, NY 10017",www.intlfcstone.com
+67,Safeway Inc.,62,Robert L. Edwards,"5918 Stoneridge Mall Rd., Pleasanton, CA 94588",www.safeway.com
+68,"Johnson Controls, Inc.",67,Alex A. Molinaroli,"5757 N. Green Bay Ave., Milwaukee, WI 53209",www.johnsoncontrols.com
+69,Ingram Micro Inc.,76,Alain Monié,"1600 E. St. Andrew Place, Santa Ana, CA 92705",www.ingrammicro.com
+70,"Plains GP Holdings, L.P.",-,Greg L. Armstrong,"333 Clay St., Houston, TX 77002",www.plainsallamerican.com
+71,World Fuel Services Corporation,74,Michael J. Kasbar,"9800 N.W. 41st St., Miami, FL 33178",www.wfscorp.com
+72,"Prudential Financial, Inc.",29,John R. Strangfeld Jr.,"751 Broad St., Newark, NJ 07102",www.prudential.com
+73,Humana Inc.,73,Bruce D. Broussard,"500 W. Main St., Louisville, KY 40202",www.humana.com
+74,"The Goldman Sachs Group, Inc.",68,Lloyd C. Blankfein,"200 West St., New York, NY 10282",www.gs.com
+75,Tesoro Corporation,95,Gregory J. Goff,"19100 Ridgewood Pkwy., San Antonio, TX 78259",www.tsocorp.com
+76,Liberty Mutual Holding Company Inc.,81,David H. Long,"175 Berkeley St., Boston, MA 02116",www.libertymutual.com
+77,Honeywell International Inc.,78,David M. Cote,"101 Columbia Rd., Morris Township, NJ 07962",www.honeywell.com
+78,"United Continental Holdings, Inc.",79,Jeffery A. Smisek,"233 S. Wacker Dr., Chicago, IL 60606",www.unitedcontinentalholdings.com
+79,"HCA Holdings, Inc.",82,R. Milton Johnson,"1 Park Plaza, Nashville, TN 37203",www.hcahealthcare.com
+80,Deere & Company,85,Samuel R. Allen,"1 John Deere Place, Moline, IL 61265",www.deere.com
+81,"Delta Air Lines, Inc.",83,Richard H. Anderson,"1030 Delta Blvd., Atlanta, GA 30354",www.delta.com
+82,Oracle Corporation,80,Lawrence J. Ellison,"500 Oracle Pkwy., Redwood City, CA 94065",www.oracle.com
+83,Morgan Stanley,96,James P. Gorman,"1585 Broadway, New York, NY 10036",www.morganstanley.com
+84,Hess Corporation,75,John B. Hess,"1185 Ave. of the Americas, New York, NY 10036",www.hess.com
+85,"Twenty-First Century Fox, Inc.",91,K. Rupert Murdoch,"1211 Ave. of the Americas, New York, NY 10036",www.21cf.com
+86,E.I. du Pont de Nemours and Company,72,Ellen J. Kullman,"1007 Market St., Wilmington, DE 19898",www.dupont.com
+87,Sears Holdings Corporation,71,Edward S. Lampert,"3333 Beverly Rd., Hoffman Estates, IL 60179",www.searsholdings.com
+88,New York Life Insurance Company,89,Theodore A. Mathas,"51 Madison Ave., New York, NY 10010",www.newyorklife.com
+89,"Mondelez International, Inc.",88,Irene B. Rosenfeld,"3 Pkwy. N., Deerfield, IL 60015",www.mondelezinternational.com
+90,American Express Company,90,Kenneth I. Chenault,"200 Vesey St., New York, NY 10285",www.americanexpress.com
+91,Nationwide Mutual Insurance Co.,100,Stephen S. Rasmussen,"1 Nationwide Blvd., Columbus, OH 43215",www.nationwide.com
+92,The Allstate Corporation,92,Thomas J. Wilson,"2775 Sanders Rd., Northbrook, IL 60062",www.allstate.com
+93,"Tyson Foods, Inc.",93,Donnie Smith,"2200 Don Tyson Pkwy., Springdale, AR 72762",www.tysonfoods.com
+94,Supervalu Inc.,86,Sam K. Duncan,"7075 Flying Cloud Dr., Eden Prairie, MN 55344",www.supervalu.com
+95,TIAA-CREF,97,Roger W. Ferguson Jr.,"730 Third Ave., New York, NY 10017",www.tiaa-cref.org
+96,Massachusetts Mutual Life Insurance Company,94,Roger W. Crandall,"1295 State St., Springfield, MA 01111",www.massmutual.com
+97,CIGNA Corporation,103,David M. Cordani,"900 Cottage Grove Rd., Bloomfield, CT 06002",www.cigna.com
+98,DIRECTV,102,Michael D. White,"2260 E. Imperial Hwy., El Segundo, CA 90245",www.directv.com
+99,General Dynamics Corporation,98,Phebe N. Novakovic,"2941 Fairview Park Dr., Falls Church, VA 22042",www.generaldynamics.com
+100,Philip Morris International Inc.,99,André Calantzopoulos,"120 Park Ave., New York, NY 10017",www.pmi.com
+101,3M Company,101,Inge G. Thulin,"3M Center, St. Paul, MN 55144",www.3m.com
+102,Time Warner Inc.,105,Jeffrey L. Bewkes,"1 Time Warner Center, New York, NY 10019",www.timewarner.com
+103,Halliburton Company,106,David J. Lesar,"3000 N. Sam Houston Pkwy E., Houston, TX 77032",www.halliburton.com
+104,"Publix Super Markets, Inc.",108,William E. Crenshaw,"3300 Publix Corporate Pkwy., Lakeland, FL 33811",www.publix.com
+105,International Paper Company,107,John V. Faraci,"6400 Poplar Ave., Memphis, TN 38197",www.internationalpaper.com
+106,McDonald’s Corporation,111,Donald Thompson,"1 McDonald's Plaza, Oak Brook, IL 60523",www.mcdonalds.com
+107,"Macy’s, Inc.",109,Terry J. Lundgren,"7 W. Seventh St., Cincinnati, OH 45202",www.macysinc.com
+108,"The TJX Companies, Inc.",115,Carol M. Meyrowitz,"770 Cochituate Rd., Framingham, MA 01701",www.tjx.com
+109,Fluor Corporation,110,David T. Seaton,"6700 Las Colinas Blvd., Irving, TX 75039",www.fluor.com
+110,"Northwestern Mutual Life Insurance Company,Inc.",114,John E. Schlifske,"720 E. Wisconsin Ave., Milwaukee, WI 53202",www.northwesternmutual.com
+111,Tech Data Corporation,119,Robert M. Dutkowsky,"5350 Tech Data Dr., Clearwater, FL 33760",www.techdata.com
+112,American Airlines Group Inc.,121,W. Douglas Parker,"4333 Amon Carter Blvd., Fort Worth, TX 76155",www.aa.com
+113,"The Hartford Financial Services Group, Inc.",112,Liam E. McGee,"1 Hartford Plaza, Hartford, CT 06155",www.thehartford.com
+114,"The Travelers Companies, Inc.",116,Jay S. Fishman,"485 Lexington Ave., New York, NY 10017",www.travelers.com
+115,"Nike, Inc.",126,Mark G. Parker,"1 Bowerman Dr., Beaverton, OR 97005",www.nikeinc.com
+116,Occidental Petroleum Corporation,125,Stephen I. Chazen,"10889 Wilshire Blvd., Los Angeles, CA 90024",www.oxy.com
+117,"Avnet, Inc.",117,Richard Hamada,"2211 S. 47th St., Phoenix, AZ 85034",www.avnet.com
+118,Rite Aid Corporation,113,John T. Standley,"30 Hunter Lane, Camp Hill, PA 17011",www.riteaid.com
+119,Exelon Corporation,129,Christopher M. Crane,"10 S. Dearborn St., Chicago, IL 60603",www.exeloncorp.com
+120,Qualcomm Incorporated,149,Steven M. Mollenkopf,"5775 Morehouse Dr., San Diego, CA 92121",www.qualcomm.com
+121,Emerson Electric Co.,123,David N. Farr,"8000 W. Florissant Ave., St. Louis, MO 63136",www.emerson.com
+122,Northrop Grumman Corporation,120,Wesley G. Bush,"2980 Fairview Park Dr., Falls Church, VA 22042",www.northropgrumman.com
+123,Duke Energy Corporation,145,Lynn J. Good,"550 S. Tryon St., Charlotte, NC 28202",www.duke-energy.com
+124,Capital One Financial Corporation,127,Richard D. Fairbank,"1680 Capital One Dr., McLean, VA 22102",www.capitalone.com
+125,Aflac Incorporated,118,Daniel P. Amos,"1932 Wynnton Rd., Columbus, GA 31999",www.aflac.com
+126,Raytheon Company,124,Thomas A. Kennedy,"870 Winter St., Waltham, MA 02451",www.raytheon.com
+127,"Staples, Inc.",122,Ronald L. Sargent,"500 Staples Dr., Framingham, MA 01702",www.staples.com
+128,EMC Corporation,133,Joseph M. Tucci,"176 South St., Hopkinton, MA 01748",www.emc.com
+129,Eli Lilly and Company,130,John C. Lechleiter,"Lilly Corporate Center, Indianapolis, IN 46285",www.lilly.com
+130,Alcoa Inc.,128,Klaus Kleinfeld,"390 Park Ave., New York, NY 10022",www.alcoa.com
+131,"National Oilwell Varco, Inc.",144,Clay C. Williams,"7909 Parkwood Circle Dr., Houston, TX 77036",www.nov.com
+132,Baker Hughes Incorporated,135,Martin S. Craighead,"2929 Allen Pkwy., Houston, TX 77019",www.bakerhughes.com
+133,"US Foods, Inc.",-,John A. Lederer,"9399 W. Higgins Rd., Rosemont, IL 60018",www.usfoods.com
+134,Time Warner Cable Inc.,134,Robert D. Marcus,"60 Columbus Circle, New York, NY 10023",www.twc.com
+135,Union Pacific Corporation,138,John J. Koraleski,"1400 Douglas St., Omaha, NE 68179",www.up.com
+136,Abbott Laboratories,70,Miles D. White,"100 Abbott Park Rd., Abbott Park, IL 60064",www.abbott.com
+137,Xerox Corporation,131,Ursula M. Burns,"45 Glover Ave., Norwalk, CT 06850",www.xerox.com
+138,"Arrow Electronics, Inc",141,Michael J. Long,"7459 S. Lima St., Englewood, CO 80112",www.arrow.com
+139,Kimberly-Clark Corporation,136,Thomas J. Falk,"351 Phelps Dr., Irving, TX 75038",www.kimberly-clark.com
+140,U.S. Bancorp,132,Richard K. Davis,"800 Nicollet Mall, Minneapolis, MN 55402",www.usbank.com
+141,United Services Automobile Association,139,Josue Robles Jr.,"9800 Fredericksburg Rd., San Antonio, TX 78288",www.usaa.com
+142,Freeport-McMoRan Copper & Gold Inc.,156,Richard C. Adkerson,"333 N. Central Ave., Phoenix, AZ 85004",www.fcx.com
+143,Icahn Enterprises L.P.,178,Keith Cozza,"767 Fifth Ave., New York, NY 10153",www.ielp.com
+144,ManpowerGroup Inc.,140,Jonas Prising,"100 Manpower Place, Milwaukee, WI 53212",www.manpowergroup.com
+145,HollyFrontier Corporation,143,Michael C. Jennings,"2828 N. Harwood, Dallas, TX 75201",www.hollyfrontier.com
+146,Global Partners LP,157,Eric Slifka,"800 South St., Waltham, MA 02453",www.globalp.com
+147,The Goodyear Tire & Rubber Company,137,Richard J. Kramer,"200 Innovation Way, Akron, OH 44316",www.goodyear.com
+148,PBF Energy Inc.,142,Thomas J. Nimbley,"1 Sylvan Way, Parsippany, NJ 07054","www,pbfenergy.com"
+149,Danaher Corporation,152,H. Lawrence Culp Jr.,"2200 Pennsylvania Ave. N.W., Washington, DC 20037",www.danaher.com
+150,Nucor Corporation,146,John J. Ferriola,"1915 Rexford Rd., Charlotte, NC 28211",www.nucor.com
+151,Kohl’s Corporation,148,Kevin Mansell,"N56 W17000 Ridgewood Dr., Menomonee Falls, WI 53051",www.kohlscorporation.com
+152,AbbVie Inc.,-,Richard A. Gonzalez,"1 N. Waukegan Rd., North Chicago, IL 60064",www.abbvie.com
+153,Whirlpool Corporation,154,Jeff M. Fettig,"2000 North M-63, Benton Harbor, MI 49022",www.whirlpoolcorp.com
+154,Amgen Inc.,162,Robert A. Bradway,"1 Amgen Center Dr., Thousand Oaks, CA 91320",www.amgen.com
+155,"Jabil Circuit, Inc.",163,Mark T. Mondello,"10560 Dr. Martin Luther King Jr. St. N., St. Petersburg, FL 33716",www.jabil.com
+156,"Kraft Foods Group, Inc.",151,W. Anthony Vernon,"3 Lakes Dr., Northfield, IL 60093",www.kraftfoodsgroup.com
+157,The Progressive Corporation,166,Glenn M. Renwick,"6300 Wilson Mills Rd., Mayfield Village, OH 44143",www.progressive.com
+158,"CenturyLink, Inc.",150,Glen F. Post III,"100 CenturyLink Dr., Monroe, LA 71203",www.centurylink.com
+159,"General Mills, Inc.",169,Kendall J. Powell,"1 General Mills Blvd., Minneapolis, MN 55426",www.generalmills.com
+160,Southwest Airlines Co.,164,Gary C. Kelly,"2702 Love Field Dr., Dallas, TX 75235",www.southwest.com
+161,"Altria Group, Inc.",159,Martin J. Barrington,"6601 W. Broad St., Richmond, VA 23230",www.altria.com
+162,"AutoNation, Inc.",177,Michael J. Jackson,"200 S.W. First Ave., Fort Lauderdale, FL 33301",www.autonation.com
+163,Chesapeake Energy Corporation,223,Robert D. Lawler,"6100 N. Western Ave., Oklahoma City, OK 73118",www.chk.com
+164,Dollar General Corporation,175,Richard W. Dreiling,"100 Mission Ridge, Goodlettsville, TN 37072",www.dollargeneral.com
+165,TRW Automotive Holdings Corp.,173,John C. Plant,"12001 Tech Center Dr., Livonia, MI 48150",www.trw.com
+166,United States Steel Corporation,147,Mario Longhi,"600 Grant St., Pittsburgh, PA 15219",www.ussteel.com
+167,Colgate-Palmolive Company,165,Ian M. Cook,"300 Park Ave., New York, NY 10022",www.colgatepalmolive.com
+168,Cummins Inc.,160,N. Thomas Linebarger,"500 Jackson St., Columbus, IN 47201",www.cummins.com
+169,PACCAR Inc,168,Ronald E. Armstrong,"777 106th Ave. N.E., Bellevue, WA 98004",www.paccar.com
+170,The Southern Company,171,Thomas A. Fanning,"30 Ivan Allen Jr. Blvd. N.W., Atlanta, GA 30308",www.southerncompany.com
+171,Illinois Tool Works Inc.,155,E. Scott Santi,"3600 W. Lake Ave., Glenview, IL 60026",www.itw.com
+172,"The PNC Financial Services Group, Inc.",170,William S. Demchak,"249 Fifth Ave., Pittsburgh, PA 15222",www.pnc.com
+173,"Medtronic, Inc.",172,Omar Ishrak,"710 Medtronic Pkwy., Minneapolis, MN 55432",www.medtronic.com
+174,The AES Corporation,153,Andrés R. Gluski,"4300 Wilson Blvd., Arlington, VA 22203",www.aes.com
+175,Murphy USA Inc.,-,R. Andrew Clyde,"200 Peach St., El Dorado, AR 71730",corporate.murphyusa.com
+176,Bristol-Myers Squibb Company,158,Lamberto Andreotti,"345 Park Ave., New York, NY 10154",www.bms.com
+177,Lear Corporation,187,Matthew J. Simoncini,"21557 Telegraph Rd., Southfield, MI 48033",www.lear.com
+178,"The Gap, Inc.",179,Glenn K. Murphy,"2 Folsom St., San Francisco, CA 94105",www.gapinc.com
+179,Apache Corporation,167,G. Steven Farris,"2000 Post Oak Blvd., Houston, TX 77056",www.apachecorp.com
+180,eBay Inc.,196,John J. Donahoe,"2065 Hamilton Ave., San Jose, CA 95125",www.ebayinc.com
+181,The Bank of New York Mellon Corporation,180,Gerald L. Hassell,"1 Wall St., New York, NY 10286",www.bnymellon.com
+182,CBS Corporation,186,Leslie Moonves,"51 W. 52nd St., New York, NY 10019",www.cbscorporation.com
+183,PG&E Corporation,183,Anthony F. Earley Jr.,"77 Beale St., San Francisco, CA 94105",www.pge.com
+184,"ConAgra Foods, Inc.",209,Gary M. Rodkin,"1 ConAgra Dr., Omaha, NE 68102",www.conagrafoods.com
+185,Computer Sciences Corporation,176,J. Michael Lawrie,"3170 Fairview Park Dr., Falls Church, VA 22042",www.csc.com
+186,"American Electric Power Company, Inc.",185,Nicholas K. Akins,"1 Riverside Plaza, Columbus, OH 43215",www.aep.com
+187,Western Digital Corporation,222,Stephen D. Milligan,"3355 Michelson Dr., Irvine, CA 92612",www.westerndigital.com
+188,Marathon Oil Corporation,174,Lee M. Tillman,"5555 San Felipe St., Houston, TX 77056",www.marathonoil.com
+189,Baxter International Inc.,193,Robert L. Parkinson Jr.,"1 Baxter Pkwy., Deerfield, IL 60015",www.baxter.com
+190,"PPG Industries, Inc.",182,Charles E. Bunch,"1 PPG Place, Pittsburgh, PA 15272",www.ppg.com
+191,"NextEra Energy, Inc.",190,James L. Robo,"700 Universe Blvd., Juno Beach, FL 33408",www.nexteraenergy.com
+192,"Community Health Systems, Inc.",184,Wayne T. Smith,"4000 Meridian Blvd., Franklin, TN 37067",www.chs.net
+193,Loews Corporation,188,James S. Tisch,"667 Madison Ave., New York, NY 10065",www.loews.com
+194,"Penske Automotive Group, Inc.",203,Roger S. Penske,"2555 Telegraph Rd., Bloomfield Hills, MI 48302",www.penskeautomotive.com
+195,FirstEnergy Corp.,181,Anthony J. Alexander,"76 S. Main St., Akron, OH 44308",www.firstenergycorp.com
+196,Starbucks Corporation,208,Howard D. Schultz,"2401 Utah Ave. S., Seattle, WA 98134",www.starbucks.com
+197,Monsanto Company,206,Hugh Grant,"800 N. Lindbergh Blvd., St. Louis, MO 63167",www.monsanto.com
+198,Kellogg Company,192,John A. Bryant,"1 Kellogg Sq., Battle Creek, MI 49017",www.kelloggcompany.com
+199,"Land O’Lakes, Inc.",194,Christopher J. Policinski,"4001 Lexington Ave. N., Arden Hills, MN 55126",www.landolakesinc.com
+200,"ONEOK, Inc.",219,Terry K. Spencer,"100 W. Fifth St., Tulsa, OK 74103",www.oneok.com
+201,Omnicom Group Inc.,191,John D. Wren,"437 Madison Ave., New York, NY 10022",www.omnicomgroup.com
+202,Anadarko Petroleum Corporation,207,R. A. Walker,"1201 Lake Robbins Dr., The Woodlands, TX 77380",www.anadarko.com
+203,"EOG Resources, Inc.",233,William R. Thomas,"1111 Bagby St., Houston, TX 77002",www.eogresources.com
+204,DISH Network Corporation,189,Joseph P. Clayton,"9601 S. Meridian Blvd., Englewood, CO 80112",www.dish.com
+205,Genuine Parts Company,214,Thomas C. Gallagher,"2999 Circle 75 Pkwy., Atlanta, GA 30339",www.genpt.com
+206,"Kinder Morgan, Inc.",265,Richard D. Kinder,"1001 Louisiana St., Houston, TX 77002",www.kindermorgan.com
+207,"Waste Management, Inc.",200,David P. Steiner,"1001 Fannin St., Houston, TX 77002",www.wm.com
+208,The Chubb Corporation,202,John D. Finnegan,"15 Mountain View Rd., Warren, NJ 07059",www.chubb.com
+209,Aramark Holdings Corporation,205,Eric J. Foss,"1101 Market St., Philadelphia, PA 19107",www.aramark.com
+210,Viacom Inc.,198,Philippe P. Dauman,"1515 Broadway, New York, NY 10036",www.viacom.com
+211,Las Vegas Sands Corp.,244,Sheldon G. Adelson,"3355 Las Vegas Blvd. S., Las Vegas, NV 89109",www.sands.com
+212,"Dominion Resources, Inc.",210,Thomas F. Farrell II,"120 Tredegar St., Richmond, VA 23219",www.dom.com
+213,Ecolab Inc.,229,Douglas M. Baker Jr.,"370 Wabasha St. N., St. Paul, MN 55102",www.ecolab.com
+214,"Smithfield Foods, Inc.",213,C. Larry Pope,"200 Commerce St., Smithfield, VA 23430",www.smithfieldfoods.com
+215,Thermo Fisher Scientific Inc.,220,Marc N. Casper,"81 Wyman St., Waltham, MA 02451",www.thermofisher.com
+216,"Yum! Brands, Inc.",201,David C. Novak,"1441 Gardiner Lane, Louisville, KY 40213",www.yum.com
+217,Parker-Hannifin Corporation,211,Donald E. Washkewicz,"6035 Parkland Blvd., Cleveland, OH 44124",www.parker.com
+218,"Whole Foods Market, Inc.",232,"John P. Mackey, Walter E. Robb IV","550 Bowie St., Austin, TX 78703",www.wholefoodsmarket.com
+219,"Marriott International, Inc.",230,Arne M. Sorenson,"10400 Fernwood Rd., Bethesda, MD 20817",www.marriott.com
+220,"C. H. Robinson Worldwide, Inc.",237,John P. Wiehoff,"14701 Charlson Rd., Eden Prairie, MN 55347",www.chrobinson.com
+221,"L-3 Communications Holdings, Inc.",197,Michael T. Strianese,"600 Third Ave., New York, NY 10016",www.l-3com.com
+222,Edison International,212,Theodore F. Craver Jr.,"2244 Walnut Grove Ave., Rosemead, CA 91770",www.edisoninvestor.com
+223,"Toys “R” Us, Inc.",204,Antonio Urcelay,"1 Geoffrey Way, Wayne, NJ 07470",www.toysrusinc.com
+224,"Nordstrom, Inc.",227,Blake W. Nordstrom,"1617 Sixth Ave., Seattle, WA 98101",www.nordstrom.com
+225,"Consolidated Edison, Inc.",226,John McAvoy,"4 Irving Place, New York, NY 10003",www.conedison.com
+226,"Marsh & McLennan Companies, Inc.",228,Daniel S. Glaser,"1166 Ave. of the Americas, New York, NY 10036",www.mmc.com
+227,Texas Instruments Incorporated,218,Richard K. Templeton,"12500 TI Blvd., Dallas, TX 75243",www.ti.com
+228,Textron Inc.,225,Scott C. Donnelly,"40 Westminster St., Providence, RI 02903",www.textron.com
+229,Tenet Healthcare Corporation,269,Trevor Fetter,"1445 Ross Ave., Dallas, TX 75202",www.tenethealth.com
+230,DaVita HealthCare Partners Inc.,311,Kent J. Thiry,"2000 16th St., Denver, CO 80202",www.davita.com
+231,CSX Corporation,231,Michael J. Ward,"500 Water St., Jacksonville, FL 32202",www.csx.com
+232,Lincoln National Corporation,235,Dennis R. Glass,"150 N. Radnor Chester Rd., Radnor, PA 19087",www.lfg.com
+233,"Praxair, Inc.",241,Stephen F. Angel,"39 Old Ridgebury Rd., Danbury, CT 06810",www.praxair.com
+234,PPL Corporation,224,William H. Spence,"2 N. Ninth St., Allentown, PA 18101",www.pplweb.com
+235,"J.C. Penney Company, Inc.",215,Myron E. Ullman III,"6501 Legacy Dr., Plano, TX 75024",www.jcpenney.com
+236,"Peter Kiewit Sons’, Inc.",243,Bruce E. Grewcock,"1000 Kiewit Plaza, Omaha, NE 68131",www.kiewit.com
+237,Jacobs Engineering Group Inc.,249,Craig L. Martin,"155 N. Lake Ave., Pasadena, CA 91101",www.jacobs.com
+238,Visa Inc.,260,Charles W. Scharf,"900 Metro Center Blvd., Foster City, CA 94404",www.corporate.visa.com
+239,H.J. Heinz Company,234,Bernardo Hees,"1 PPG Place, Pittsburgh, PA 15222",www.heinz.com
+240,"CarMax, Inc.",259,Thomas J. Folliard,"12800 Tuckahoe Creek Pkwy., Richmond, VA 23238",www.carmax.com
+241,V.F. Corporation,250,Eric C. Wiseman,"105 Corporate Center Blvd., Greensboro, NC 27408",www.vfc.com
+242,Entergy Corporation,261,Leo P. Denault,"639 Loyola Ave., New Orleans, LA 70113",www.entergy.com
+243,"Automatic Data Processing, Inc.",255,Carlos A. Rodriguez,"1 ADP Blvd., Roseland, NJ 07068",www.adp.com
+244,"NRG Energy, Inc.",314,David W. Crane,"211 Carnegie Center, Princeton, NJ 08540",www.nrgenergy.com
+245,Guardian Life Ins. Co. of America,238,Deanna M. Mulligan,"7 Hanover Sq., New York, NY 10004",www.guardianlife.com
+246,Liberty Interactive Corporation,270,Gregory B. Maffei,"12300 Liberty Blvd., Englewood, CO 80112",www.libertyinteractive.com
+247,Norfolk Southern Corporation,247,Charles W. Moorman IV,"3 Commercial Place, Norfolk, VA 23510",www.nscorp.com
+248,"Office Depot, Inc.",253,Roland C. Smith,"6600 N. Military Trail, Boca Raton, FL 33496",www.officedepot.com
+249,"Ameriprise Financial, Inc.",263,James M. Cracchiolo,"1099 Ameriprise Financial Center, Minneapolis, MN 55474",www.ameriprise.com
+250,"Gilead Sciences, Inc.",280,John C. Martin,"333 Lakeside Dr., Foster City, CA 94404",www.gilead.com
+251,Centene Corporation,303,Michael F. Neidorff,"7700 Forsyth Blvd., St. Louis, MO 63105",www.centene.com
+252,Leucadia National Corporation,289,Richard B. Handler,"520 Madison Ave., New York, NY 10022",www.leucadia.com
+253,Huntsman Corporation,241,Peter R. Huntsman,"500 Huntsman Way, Salt Lake City, UT 84108",www.huntsman.com
+254,"Health Net, Inc.",236,Jay M. Gellert,"21650 Oxnard St., Woodland Hills, CA 91367",www.healthnet.com
+255,"Stanley Black & Decker, Inc.",245,John F. Lundgren,"1000 Stanley Dr., New Britain, CT 06053",www.stanleyblackanddecker.com
+256,URS Corporation,248,Martin M. Koffel,"600 Montgomery St., San Francisco, CA 94111",www.urs.com
+257,Xcel Energy Inc.,266,Benjamin G.S. Fowke III,"414 Nicollet Mall, Minneapolis, MN 55401",www.xcelenergy.com
+258,Bed Bath & Beyond Inc.,285,Steven H. Temares,"650 Liberty Ave., Union, NJ 07083",www.bedbathandbeyond.com
+259,Navistar International Corporation,216,Troy A. Clarke,"2701 Navistar Dr., Lisle, IL 60532",www.navistar.com
+260,Synnex Corporation,262,Kevin M. Murai,"44201 Nobel Dr., Fremont, CA 94538",www.synnex.com
+261,First Data Corporation,254,Frank J. Bisignano,"5565 Glenridge Connector N.E., Atlanta, GA 30342",www.firstdata.com
+262,AGCO Corporation,272,Martin H. Richenhagen,"4205 River Green Pkwy., Duluth, GA 30096",www.agcocorp.com
+263,"L Brands, Inc.",258,Leslie H. Wexner,"3 Limited Pkwy., Columbus, OH 43230",www.lb.com
+264,"Hertz Global Holdings, Inc.",293,Mark P. Frissora,"225 Brae Blvd., Park Ridge, NJ 07656",www.hertz.com
+265,CDW Corporation,267,Thomas E. Richards,"200 N. Milwaukee Ave., Vernon Hills, IL 60061",www.cdw.com
+266,"CST Brands, Inc.",-,Kimberly S. Bowers,"1 Valero Way, San Antonio, TX 78249",www.cstbrands.com
+267,Sempra Energy,281,Debra L. Reed,"101 Ash St., San Diego, CA 92101",www.sempra.com
+268,R.R. Donnelley & Sons Company,264,Thomas J. Quinlan III,"111 S. Wacker Dr., Chicago, IL 60606",www.rrdonnelley.com
+269,BB&T Corporation,251,Kelly S. King,"200 W. Second St., Winston-Salem, NC 27101",www.bbt.com
+270,Devon Energy Corporation,284,John Richels,"333 W. Sheridan Ave., Oklahoma City, OK 73102",www.devonenergy.com
+271,"Family Dollar Stores, Inc.",287,Howard R. Levine,"10401 Monroe Rd., Matthews, NC 28105",www.familydollar.com
+272,Unum Group,257,Thomas R. Watjen,"1 Fountain Sq., Chattanooga, TN 37402",www.unum.com
+273,Ally Financial Inc.,221,Michael A. Carpenter,"200 Renaissance Center, Detroit, MI 48243",www.ally.com
+274,"Reinsurance Group of America, Incorporated",275,A. Greig Woodring,"1370 Timberlake Manor Pkwy., Chesterfield, MO 63017",www.rgare.com
+275,State Street Corporation,268,Joseph L. Hooley,"1 Lincoln St., Boston, MA 02111",www.statestreet.com
+276,"Air Products & Chemicals, Inc.",273,John E. McGlade,"7201 Hamilton Blvd., Allentown, PA 18195",www.airproducts.com
+277,"Ross Stores, Inc.",278,Michael A. Balmuth,"5130 Hacienda Dr., Dublin, CA 94568",www.rossstores.com
+278,The Sherwin-Williams Company,282,Christopher M. Connor,"101 W. Prospect Ave. , Cleveland, OH 44115",www.sherwin.com
+279,The Estée Lauder Companies Inc.,279,Fabrizio Freda,"767 Fifth Ave., New York, NY 10153",www.elcompanies.com
+280,"BlackRock, Inc.",286,Laurence D. Fink,"55 E. 52nd St., New York, NY 10055",www.blackrock.com
+281,"Western Refining, Inc.",283,Jeff A. Stevens,"123 W. Mills Ave., El Paso, TX 79901",www.wnr.com
+282,"Avon Products, Inc.",252,Sherilyn S. McCoy,"777 Third Ave., New York, NY 10017",www.avoncompany.com
+283,The Mosaic Company,246,James T. Prokopanko,"3033 Campus Dr., Plymouth, MN 55441",www.mosaicco.com
+284,Public Service Enterprise Group Incorporated,276,Ralph Izzo,"80 Park Plaza, Newark, NJ 07102",www.pseg.com
+285,Dean Foods Company,217,Gregg A. Tanner,"2711 N. Haskell Ave., Dallas, TX 75204",www.deanfoods.com
+286,Cameron International Corporation,310,Jack B. Moore,"1333 W. Loop S., Houston, TX 77027",www.c-a-m.com
+287,MGM Resorts International,292,James J. Murren,"3600 Las Vegas Blvd. S., Las Vegas, NV 89109",www.mgmresorts.com
+288,KKR & Co. L.P.,277,"Henry R. Kravis, George R. Roberts","9 W. 57th St., New York, NY 10019",www.kkr.com
+289,Hilton Worldwide Holdings Inc.,-,Christopher J. Nassetta,"7930 Jones Branch Dr., McLean, VA 22102",www.hiltonworldwide.com
+290,DTE Energy Company,299,Gerard M. Anderson,"1 Energy Plaza, Detroit, MI 48226",www.dteenergy.com
+291,"Genworth Financial, Inc.",271,Thomas J. McInerney,"6620 W. Broad St., Richmond, VA 23230",www.genworth.com
+292,"Henry Schein, Inc.",296,Stanley M. Bergman,"135 Duryea Rd., Melville, NY 11747",www.henryschein.com
+293,Rock-Tenn Company,291,Steven C. Voorhees,"504 Thrasher St., Norcross, GA 30071",www.rocktenn.com
+294,"WellCare Health Plans, Inc.",345,David J. Gallitano,"8725 Henderson Rd., Tampa, FL 33634",www.wellcare.com
+295,"W.W. Grainger, Inc.",295,James T. Ryan,"100 Grainger Pkwy., Lake Forest, IL 60045",www.grainger.com
+296,Discover Financial Services,294,David W. Nelms,"2500 Lake Cook Rd., Riverwoods, IL 60015",www.discoverfinancial.com
+297,Eastman Chemical Company,324,Mark J. Costa,"200 S. Wilcox Dr., Kingsport, TN 37660",www.eastman.com
+298,"Principal Financial Group, Inc.",290,Larry D. Zimpleman,"711 High St., Des Moines, IA 50392",www.principal.com
+299,Reliance Steel & Aluminum Co.,313,David H. Hannah,"350 S. Grand Ave., Los Angeles, CA 90071",www.rsac.com
+300,"AutoZone, Inc.",306,William C. Rhodes III,"123 S. Front St., Memphis, TN 38103",www.autozone.com
+301,Dover Corporation,308,Robert A. Livingston,"3005 Highland Pkwy., Downers Grove, IL 60515",www.dovercorporation.com
+302,"Micron Technology, Inc.",318,D. Mark Durcan,"8000 S. Federal Way, Boise, ID 83716",www.micron.com
+303,"Owens & Minor, Inc.",297,Craig R. Smith,"9120 Lockwood Blvd., Mechanicsville, VA 23116",www.owens-minor.com
+304,"Assurant, Inc.",309,Robert B. Pollock,"1 Chase Manhattan Plaza, New York, NY 10005",www.assurant.com
+305,GameStop Corp.,298,J. Paul Raines,"625 Westport Pkwy., Grapevine, TX 76051",www.gamestopcorp.com
+306,Stryker Corporation,305,Kevin A. Lobo,"2825 Airview Blvd., Kalamazoo, MI 49002",www.stryker.com
+307,"Group 1 Automotive, Inc.",343,Earl J. Hesterberg,"800 Gessner Rd., Houston, TX 77024",www.group1auto.com
+308,Cognizant Technology Solutions Corporation,352,Francisco D'Souza,"500 Frank W. Burr Blvd., Teaneck, NJ 07666",www.cognizant.com
+309,"Sonic Automotive, Inc.",307,O. Bruton Smith,"4401 Colwick Rd., Charlotte, NC 28211",www.sonicautomotive.com
+310,"Autoliv, Inc.",317,Jan Carlson,"1320 Pacific Dr., Auburn Hills, MI 48326",www.autoliv.com
+311,Hormel Foods Corporation,319,Jeffrey M. Ettinger,"1 Hormel Place, Austin, MN 55912",www.hormelfoods.com
+312,"Motorola Solutions, Inc.",304,Gregory Q. Brown,"1303 E. Algonquin Rd., Schaumburg, IL 60196",www.motorolasolutions.com
+313,"Crown Holdings, Inc.",312,John W. Conway,"1 Crown Way, Philadelphia, PA 19154",www.crowncork.com
+314,"SunTrust Banks, Inc.",239,William H. Rogers Jr.,"303 Peachtree St. N.E., Atlanta, GA 30308",www.suntrust.com
+315,Campbell Soup Company,338,Denise M. Morrison,"1 Campbell Place, Camden, NJ 08103",www.campbellsoupcompany.com
+316,"Fidelity National Financial, Inc.",353,Raymond R. Quirk,"601 Riverside Ave., Jacksonville, FL 32204",www.fnf.com
+317,"HD Supply Holdings, Inc.",330,Joseph J. DeAngelo,"3100 Cumberland Blvd., Atlanta, GA 30339",www.hdsupply.com
+318,Caesars Entertainment Corporation,300,Gary W. Loveman,"1 Caesars Palace Dr., Las Vegas, NV 89109",www.caesars.com
+319,"Darden Restaurants, Inc.",328,Clarence Otis Jr.,"1000 Darden Center Dr., Orlando, FL 32837",www.darden.com
+320,Weyerhaeuser Company,363,Doyle R. Simons,"33663 Weyerhaeuser Way S., Federal Way, WA 98003",www.weyerhaeuser.com
+321,Ball Corporation,301,John A. Hayes,"10 Longs Peak Dr., Broomfield, CO 80021",www.ball.com
+322,Precision Castparts Corp.,355,Mark Donegan,"4650 S.W. Macadam Ave., Portland, OR 97239",www.precast.com
+323,Masco Corporation,336,Keith J. Allman,"21001 Van Born Rd., Taylor, MI 48180",www.masco.com
+324,"Universal Health Services, Inc.",337,Alan B. Miller,"367 S. Gulph Rd., King of Prussia, PA 19406",www.uhsinc.com
+325,"Republic Services, Inc.",323,Donald W. Slager,"18500 N. Allied Way, Phoenix, AZ 85054",www.republicservices.com
+326,MasterCard Incorporated,348,Ajaypal S. Banga,"2000 Purchase St., Purchase, NY 10577",www.mastercard.com
+327,Newmont Mining Corporation,274,Gary J. Goldberg,"6363 S. Fiddler's Green Circle, Greenwood Village, CO 80111",www.newmont.com
+328,Broadcom Corporation,327,Scott A. McGregor,"5300 California Ave., Irvine, CA 92617",www.broadcom.com
+329,Reynolds American Inc.,316,Daniel M. Delen,"401 N. Main St., Winston-Salem, NC 27101",www.reynoldsamerican.com
+330,PVH Corp.,422,Emanuel Chirico,"200 Madison Ave., New York, NY 10016",www.pvh.com
+331,"Charter Communications, Inc.",340,Thomas M. Rutledge,"400 Atlantic St., Stamford, CT 06901",www.charter.com
+332,AECOM Technology Corporation,320,Michael S. Burke,"555 S. Flower St., Los Angeles, CA 90071",www.aecom.com
+333,"CenterPoint Energy, Inc.",344,Scott M. Prochazka,"1111 Louisiana St., Houston, TX 77002",www.centerpointenergy.com
+333,Pacific Life,369,James T. Morris,"700 Newport Center Dr., Newport Beach, CA 92660",www.pacificlife.com
+335,Thrivent Financial for Lutherans,325,Bradford L. Hewitt,"625 Fourth Ave. S., Minneapolis, MN 55415",www.thrivent.com
+336,"Becton, Dickinson and Company",332,Vincent A. Forlenza,"1 Becton Dr., Franklin Lakes, NJ 07417",www.bd.com
+337,"Franklin Resources, Inc.",362,Gregory E. Johnson,"1 Franklin Pkwy., San Mateo, CA 94403",www.franklinresources.com
+338,Tenneco Inc.,349,Gregg M. Sherrill,"500 N. Field Dr., Lake Forest, IL 60045",www.tenneco.com
+339,TravelCenters of America LLC,329,Thomas M. O'Brien,"24601 Center Ridge Rd., Westlake, OH 44145",www.tatravelcenters.com
+340,"Avis Budget Group, Inc.",350,Ronald L. Nelson,"6 Sylvan Way, Parsippany, NJ 07054",www.avisbudgetgroup.com
+341,"Facebook, Inc.",482,Mark Zuckerberg,"1601 Willow Rd., Menlo Park, CA 94025",www.facebook.com
+342,"Dollar Tree, Inc.",346,Bob Sasser,"500 Volvo Pkwy., Chesapeake, VA 23320",www.dollartree.com
+343,Corning Incorporated,326,Wendell P. Weeks,"1 Riverfront Plaza, Corning, NY 14831",www.corning.com
+344,Ashland Inc.,321,James J. O'Brien,"50 E. RiverCenter Blvd., Covington, KY 41011",www.ashland.com
+345,Sealed Air Corporation,333,Jerome A. Peribere,"200 Riverfront Blvd., Elmwood Park, NJ 07407",www.sealedair.com
+346,"Core-Mark Holding Company, Inc.",368,Thomas B. Perkins,"395 Oyster Point Blvd., South San Francisco, CA 94080",www.core-mark.com
+347,Oshkosh Corporation,322,Charles L. Szews,"2307 Oregon St., Oshkosh, WI 54902",www.oshkoshcorporation.com
+348,"Coca-Cola Enterprises, Inc.",339,John F. Brock,"2500 Windy Ridge Pkwy., Atlanta, GA 30339",www.cokecce.com
+349,"WESCO International, Inc.",385,John J. Engel,"225 W. Station Square Dr., Pittsburgh, PA 15219",www.wesco.com
+350,"Applied Materials, Inc.",302,Gary E. Dickerson,"3050 Bowers Ave., Santa Clara, CA 95054",www.appliedmaterials.com
+351,Visteon Corporation,359,Timothy D. Leuliette,"1 Village Center Dr., Van Buren Township, MI 48111",www.visteon.com
+352,BorgWarner Inc.,358,James R. Verrier,"3850 Hamlin Rd., Auburn Hills, MI 48326",www.borgwarner.com
+353,"Spectrum Group International, Inc.",331,Gregory N. Roberts,"1063 McGaw Ave, Irvine, CA 92614",www.spectrumgi.com
+354,"Oaktree Capital Group, LLC",-,John B. Frank,"333 S. Grand Ave., Los Angeles, CA 90071",www.oaktreecapital.com
+355,"Steel Dynamics, Inc.",354,Mark D. Millett,"7575 W. Jefferson Blvd., Fort Wayne, IN 46804",www.steeldynamics.com
+356,Jarden Corporation,383,James E. Lillie,"1800 N. Military Trail, Boca Raton, FL 33431",www.jarden.com
+357,"Mohawk Industries, Inc.",442,Jeffrey S. Lorberbaum,"160 S. Industrial Blvd., Calhoun, GA 30701",www.mohawkind.com
+358,Terex Corporation,351,Ronald M. DeFeo,"200 Nyala Farm Rd., Westport, CT 06880",www.terex.com
+359,Northeast Utilities,402,Thomas J. May,"1 Federal St., Springfield, MA 01105",www.nu.com
+360,"KBR, Inc.",334,Stuart Bradie,"601 Jefferson St., Houston, TX 77002",www.kbr.com
+361,Fifth Third Bancorp,361,Kevin T. Kabat,"38 Fountain Square Plaza, Cincinnati, OH 45263",www.53.com
+362,UGI Corporation,388,John L. Walsh,"460 N. Gulph Rd., King of Prussia, PA 19406",www.ugicorp.com
+363,"CBRE Group, Inc.",387,Robert E. Sulentic,"400 S. Hope St., Los Angeles, CA 90071",www.cbre.com
+364,Quest Diagnostics Incorporated,341,Stephen H. Rusckowski,"3 Giralda Farms, Madison, NJ 07940",www.questdiagnostics.com
+365,Peabody Energy Corporation,315,Gregory H. Boyce,"701 Market St., St. Louis, MO 63101",www.peabodyenergy.com
+366,The Hershey Company,384,John P. Bilbrey,"100 Crystal A Dr., Hershey, PA 17033",www.thehersheycompany.com
+367,Boston Scientific Corporation,357,Michael F. Mahoney,"1 Boston Scientific Place, Natick, MA 01760",www.bostonscientific.com
+368,"FMC Technologies, Inc.",417,John T. Gremp,"5875 N. Sam Houston Pkwy. W., Houston, TX 77086",www.fmctechnologies.com
+369,"The Interpublic Group of Companies, Inc.",366,Michael I. Roth,"1114 Ave. of the Americas, New York, NY 10036",www.interpublic.com
+370,Commercial Metals Company,335,Joseph Alvarado,"6565 N. MacArthur Blvd., Irving, TX 75039",www.cmc.com
+371,"The Pantry, Inc.",347,Dennis G. Hatchell,"305 Gregson Dr., Cary, NC 27511",www.thepantry.com
+372,"Owens-Illinois, Inc.",364,Albert P.L. Stroucken,"1 Michael Owens Way, Perrysburg, OH 43551",www.o-i.com
+373,American Family Ins. Group,393,Jack C. Salzwedel,"6000 American Pkwy., Madison, WI 53783",www.amfam.com
+374,Ralph Lauren Corporation,370,Ralph Lauren,"650 Madison Ave., New York, NY 10022",www.ralphlauren.com
+375,Biogen Idec Inc.,454,George A. Scangos,"225 Binney St., Cambridge, MA 02142",www.biogenidec.com
+376,"PetSmart, Inc.",377,David K. Lenhardt,"19601 N. 27th Ave., Phoenix, AZ 85027",www.petm.com
+377,Mylan Inc.,374,Heather M. Bresch,"1000 Mylan Blvd., Canonsburg, PA 15317",www.mylan.com
+378,Symantec Corporation,379,Michael Brown,"350 Ellis St., Mountain View, CA 94043",www.symantec.com
+379,Ameren Corporation,373,Warner L. Baxter,"1901 Chouteau Ave., St. Louis, MO 63103",www.ameren.com
+380,"The Williams Companies, Inc.",342,Alan S. Armstrong,"1 Williams Center, Tulsa, OK 74172",www.williams.com
+381,"Barnes & Noble, Inc.",360,Michael P. Huseby,"122 Fifth Ave., New York, NY 10011",www.barnesandnobleinc.com
+382,"Huntington Ingalls Industries, Inc.",380,C. Michael Petters,"4101 Washington Ave., Newport News, VA 23607",www.huntingtoningalls.com
+383,The Priceline Group Inc.,473,Darren R. Huston,"800 Connecticut Ave., Norwalk, CT 06854",www.pricelinegroup.com
+384,"Agilent Technologies, Inc.",371,William P. Sullivan,"5301 Stevens Creek Blvd., Santa Clara, CA 95051",www.agilent.com
+385,Dana Holding Corporation,356,Roger J. Wood,"3939 Technology Dr., Maumee, OH 43537",www.dana.com
+386,"Dillard’s, Inc.",378,William T. Dillard II,"1600 Cantrell Rd., Little Rock, AR 72201",www.dillards.com
+387,Seaboard Corporation,411,Steven J. Bresky,"9000 W. 67th St., Shawnee Mission, KS 66202",www.seaboardcorp.com
+388,"Vanguard Health Systems, Inc.",391,Charles N. Martin Jr.,"20 Burton Hills Blvd., Nashville, TN 37215",www.tenethealth.com
+389,"Casey’s General Stores, Inc.",392,Robert J. Myers,"1 Convenience Blvd., Ankeny, IA 50021",www.caseys.com
+390,"O’Reilly Automotive, Inc.",412,Gregory L. Henslee,"233 S. Patterson Ave., Springfield, MO 65802",www.oreillyauto.com
+391,The Blackstone Group L.P.,585,Stephen A. Schwarzman,"345 Park Ave., New York, NY 10154",www.blackstone.com
+392,Mutual of Omaha Insurance Company,394,Daniel P. Neary,"Mutual of Omaha Plaza, Omaha, NE 68175",www.mutualofomaha.com
+393,"Molina Healthcare, Inc.",423,Joseph M. Molina,"200 Oceangate, Long Beach, CA 90802",www.molinahealthcare.com
+394,CMS Energy Corporation,406,John G. Russell,"1 Energy Plaza, Jackson, MI 49201",www.cmsenergy.com
+395,Targa Resources Corp.,435,Joe Bob Perkins,"1000 Louisiana St., Houston, TX 77002",www.targaresources.com
+396,"Quanta Services, Inc.",397,James F. O'Neil III,"2800 Post Oak Blvd., Houston, TX 77056",www.quantaservices.com
+397,Cablevision Systems Corporation,382,James L. Dolan,"1111 Stewart Ave., Bethpage, NY 11714",www.cablevision.com
+398,Avery Dennison Corporation,375,Dean A. Scarborough,"207 Goode Ave., Glendale, CA 91203",www.averydennison.com
+399,Celanese Corporation,396,Mark C. Rohr,"222 W. Las Colinas Blvd., Irving, TX 75039",www.celanese.com
+400,"Foot Locker, Inc.",413,Ken C. Hicks,"112 W. 34th St., New York, NY 10120",www.footlocker-inc.com
+401,Celgene Corporation,456,Robert J. Hugin,"86 Morris Ave., Summit, NJ 07901",www.celgene.com
+402,"Advance Auto Parts, Inc.",409,Darren R. Jackson,"5008 Airport Rd., Roanoke, VA 24012",www.advanceautoparts.com
+403,"Mattel, Inc.",395,Bryan G. Stockton,"333 Continental Blvd., El Segundo, CA 90245",www.mattel.com
+404,"Live Nation Entertainment, Inc.",439,Michael Rapino,"9348 Civic Center Dr., Beverly Hills, CA 90210",www.livenation.com
+405,General Cable Corporation,425,Gregory B. Kenny,"4 Tesseneer Dr., Highland Heights, KY 41076",www.generalcable.com
+406,"Ryder System, Inc.",404,Robert E. Sanchez,"11690 N.W. 105th St., Miami, FL 33178",www.ryder.com
+407,"EMCOR Group, Inc.",399,Anthony J. Guzzi,"301 Merritt Seven, Norwalk, CT 06851",www.emcorgroup.com
+408,"Allergan, Inc.",440,David E.I. Pyott,"2525 Dupont Dr., Irvine, CA 92612",www.allergan.com
+409,W.R. Berkley Corporation,438,William R. Berkley,"475 Steamboat Rd., Greenwich, CT 06830",www.wrberkley.com
+410,"Rockwell Automation, Inc.",403,Keith D. Nosbusch,"1201 S. Second St., Milwaukee, WI 53204",www.rockwellautomation.com
+411,"NetApp, Inc.",408,Thomas Georgens,"495 E. Java Dr., Sunnyvale, CA 94089",www.netapp.com
+412,Ingredion Incorporated,386,Ilene S. Gordon,"5 Westbrook Corporate Center, Westchester, IL 60154",www.ingredion.com
+413,"Level 3 Communications, Inc.",398,Jeffrey K. Storey,"1025 Eldorado Blvd., Broomfield, CO 80021",www.level3.com
+414,Calpine Corporation,459,John B. Hill,"717 Texas Ave., Houston, TX 77002",www.calpine.com
+415,"Omnicare, Inc.",416,John L. Workman,"201 E. Fourth St., Cincinnati, OH 45202",www.omnicare.com
+416,Erie Insurance Group,455,Terrence W. Cavanaugh,"100 Erie Insurance Place, Erie, PA 16530",www.erieinsurance.com
+417,SLM Corporation,418,Raymond J. Quinlan,"300 Continental Dr., Newark, DE 19713",www.salliemae.com
+418,"D.R. Horton, Inc.",545,Donald J. Tomnitz,"301 Commerce St., Fort Worth, TX 76102",www.drhorton.com
+419,"CC Media Holdings, Inc.",407,Robert W. Pittman,"200 E. Basse Rd., San Antonio, TX 78209",www.clearchannel.com
+420,Anixter International Inc.,405,Robert J. Eck,"2301 Patriot Blvd., Glenview, IL 60026",www.anixter.com
+421,"Dick’s Sporting Goods, Inc.",437,Edward W. Stack,"345 Court St., Coraopolis, PA 15108",www.dickssportinggoods.com
+422,SanDisk Corporation,487,Sanjay Mehrotra,"951 SanDisk Dr., Milpitas, CA 95035",www.sandisk.com
+423,NCR Corporation,441,William R. Nuti,"3097 Satellite Blvd., Duluth, GA 30096",www.ncr.com
+424,"Starwood Hotels & Resorts Worldwide, Inc.",400,Frits D. van Paasschen,"1 StarPoint, Stamford, CT 06902",www.starwoodhotels.com
+425,"Expeditors International of Washington, Inc.",428,Jeffrey S. Musser,"1015 Third Ave., Seattle, WA 98104",www.expeditors.com
+426,"Fidelity National Information Services, Inc.",434,Frank R. Martire,"601 Riverside Ave., Jacksonville, FL 32204",www.fisglobal.com
+427,"United Natural Foods, Inc.",474,Steven L. Spinner,"313 Iron Horse Way, Providence, RI 02908",www.unfi.com
+428,Auto-Owners Insurance Group,443,Jeffrey F. Harrold,"6101 Anacapri Blvd., Lansing, MI 48917",www.auto-owners.com
+429,"Windstream Holdings, Inc.",414,Jeffery R. Gardner,"4001 Rodney Parham Rd., Little Rock, AR 72212",www.windstream.com
+430,"Dr Pepper Snapple Group, Inc.",427,Larry D. Young,"5301 Legacy Dr., Plano, TX 75024",www.drpeppersnapplegroup.com
+431,Lennar Corporation,573,Stuart A. Miller,"700 N.W. 107th Ave., Miami, FL 33172",www.lennar.com
+432,Sanmina,420,Jure Sola,"2700 N. First St., San Jose, CA 95134",www.sanmina.com
+433,"Harley-Davidson, Inc.",449,Keith E. Wandell,"3700 W. Juneau Ave., Milwaukee, WI 53208",www.harley-davidson.com
+434,CONSOL Energy Inc.,463,Nicholas J. DeIuliis,"1000 Consol Energy Dr., Canonsburg, PA 15317",www.consolenergy.com
+435,The J.M. Smucker Company,452,Richard K. Smucker,"1 Strawberry Lane, Orrville, OH 44667",www.smucker.com
+436,Newell Rubbermaid Inc.,433,Michael B. Polk,"3 Glenlake Pkwy., Atlanta, GA 30328",www.newellrubbermaid.com
+437,"CH2M HILL Companies, Ltd.",415,Jacqueline C. Hinman,"9191 S. Jamaica St., Englewood, CO 80112",www.ch2m.com
+438,Energy Future Holdings Corp.,447,John F. Young,"1601 Bryan St., Dallas, TX 75201",www.energyfutureholdings.com
+439,Susser Holdings Corporation,460,Sam L. Susser,"4525 Ayers St., Corpus Christi, TX 78415",www.susser.com
+440,Laboratory Corporation of America Holdings,444,David P. King,"358 S. Main St., Burlington, NC 27215",www.labcorp.com
+441,"Kindred Healthcare, Inc.",410,Paul J. Diaz,"680 S. Fourth St., Louisville, KY 40202",www.kindredhealthcare.com
+442,Leidos Holdings Inc.,240,John P. Jumper,"11951 Freedom Dr., Reston, VA 20190",www.leidos.com
+443,Booz Allen Hamilton Holding Corp.,436,Ralph W. Shrader,"8283 Greensboro Dr., McLean, VA 22102",www.boozallen.com
+444,"The Jones Financial Companies,L.L.L.P.",491,James D. Weddle,"12555 Manchester Rd., Des Peres, MO 63131",www.edwardjones.com
+445,Cliffs Natural Resources Inc.,424,Gary B. Halverson,"200 Public Sq., Cleveland, OH 44114",www.cliffsnaturalresources.com
+446,"PulteGroup, Inc.",501,Richard J. Dugas Jr.,"100 Bloomfield Hills Pkwy., Bloomfield Hills, MI 48304",www.pultegroupinc.com
+447,Regions Financial Corporation,401,O.B Grayson Hall Jr.,"1900 Fifth Ave. N., Birmingham, AL 35203",www.regions.com
+448,NiSource Inc.,480,Robert C. Skaggs Jr.,"801 E. 86th Ave., Merrillville, IN 46410",www.nisource.com
+449,"Graybar Electric Company, Inc.",465,Kathleen M. Mazzarella,"34 N. Meramec Ave., St. Louis, MO 63105",www.graybar.com
+450,"Integrys Energy Group, Inc.",559,Charles A. Schrock,"130 E. Randolph St., Chicago, IL 60601",www.integrysgroup.com
+451,The Clorox Company,461,Donald R. Knauss,"1221 Broadway, Oakland, CA 94612",www.thecloroxcompany.com
+452,"Wynn Resorts, Limited",478,Stephen A. Wynn,"3131 Las Vegas Blvd. S., Las Vegas, NV 89109",www.wynnresorts.com
+453,"The Andersons, Inc.",472,Michael J. Anderson,"480 W. Dussel Dr., Maumee, OH 43537",www.andersonsinc.com
+454,"J.B. Hunt Transport Services, Inc.",486,John N. Roberts III,"615 J.B. Hunt Corporate Dr., Lowell, AR 72745",www.jbhunt.com
+455,AK Steel Holding Corporation,430,James L. Wainscott,"9227 Centre Pointe Dr., West Chester, OH 45069",www.aksteel.com
+456,Harbinger Group Inc.,533,Philip A. Falcone,"450 Park Ave., New York, NY 10022",www.harbingergroupinc.com
+457,MeadWestvaco Corporation,448,John A. Luke Jr.,"501 S. Fifth St., Richmond, VA 23219",www.mwv.com
+458,The Western Union Company,445,Hikmet Ersek,"12500 E.Belford Ave., Englewood, CO 80112",www.westernunion.com
+459,The Charles Schwab Corporation,488,Walter W. Bettinger II,"211 Main St., San Francisco, CA 94105",www.aboutschwab.com
+460,"Discovery Communications, Inc.",531,David M. Zaslav,"1 Discovery Place, Silver Spring, MD 20910",www.discoverycommunications.com
+461,Spectra Energy Corp,475,Gregory L. Ebel,"5400 Westheimer Court, Houston, TX 77056",www.spectraenergy.com
+462,"St. Jude Medical, Inc.",457,Daniel J. Starks,"1 St. Jude Medical Dr., St. Paul, MN 55117",www.sjm.com
+463,"CF Industries Holdings, Inc.",419,W. Anthony Will,"4 Pkwy. N., Deerfield, IL 60015",www.cfindustries.com
+464,Con-way Inc.,450,Douglas W. Stotlar,"2211 Old Earhart Rd., Ann Arbor, MI 48105",www.con-way.com
+465,Old Republic International Corporation,496,Aldo C. Zucaro,"307 N. Michigan Ave., Chicago, IL 60601",www.oldrepublic.com
+466,JetBlue Airways Corporation,495,David Barger,"27-01 Queens Plaza N., Long Island City, NY 11101",www.jetblue.com
+467,"Calumet Specialty Products Partners, L.P.",514,F. William Grube,"2780 Waterfront Pkwy. E. Dr., Indianapolis, IN 46214",www.calumetspecialty.com
+468,"Kelly Services, Inc.",462,Carl T. Camden,"999 W. Big Beaver Rd., Troy, MI 48084",www.kellyservices.com
+469,Domtar Corporation,458,John D. Williams,"100 Kingsley Park Dr., Fort Mill, SC 29715",www.domtar.com
+470,Murphy Oil Corporation,104,Roger W. Jenkins,"200 Peach St., El Dorado, AR 71730",www.murphyoilcorp.com
+471,Harris Corporation,429,William M. Brown,"1025 W. NASA Blvd., Melbourne, FL 32919",www.harris.com
+472,"Asbury Automotive Group, Inc.",506,Craig T. Monaghan,"2905 Premiere Pkwy. N.W., Duluth, GA 30097",www.asburyauto.com
+473,"Big Lots, Inc.",466,David Campisi,"300 Phillipi Rd., Columbus, OH 43228",www.biglots.com
+474,"Advanced Micro Devices, Inc.",464,Rory P. Read,"1 AMD Place, Sunnyvale, CA 94085",www.amd.com
+475,Owens Corning,476,Michael H. Thaman,"1 Owens Corning Pkwy., Toledo, OH 43659",www.owenscorning.com
+476,Realogy Holdings Corp.,512,Richard A. Smith,"175 Park Ave., Madison, NJ 07940",www.realogy.com
+477,"Host Hotels & Resorts, Inc.",469,W. Edward Walter,"6903 Rockledge Dr., Bethesda, MD 20817",www.hosthotels.com
+478,MRC Global Inc.,451,Andrew R. Lane,"909 Fannin St., Houston, TX 77010",www.mrcglobal.com
+479,"Simon Property Group, Inc.",497,David Simon,"225 W. Washington St., Indianapolis, IN 46204",www.simon.com
+480,Tractor Supply Company,513,Gregory A. Sandfort,"200 Powell Place, Brentwood, TN 37027",www.tractorsupply.com
+481,"Gannett Co., Inc.",467,Gracia C. Martore,"7950 Jones Branch Dr., McLean, VA 22107",www.gannett.com
+482,"Alaska Air Group, Inc.",515,Bradley D. Tilden,"19300 International Blvd., Seattle, WA 98188",www.alaskaair.com
+483,"Insight Enterprises, Inc.",470,Kenneth T. Lamneck,"6820 S. Harl Ave., Tempe, AZ 85283",www.insight.com
+484,"McGraw Hill Financial, Inc.",390,Douglas L. Peterson,"1221 Ave. of the Americas, New York, NY 10020",www.mhfi.com
+485,"Buckeye Partners, L.P.",544,Clark C. Smith,"1 Greenway Plaza, Houston, TX 77046",www.buckeye.com
+486,Quintiles Transnational Holdings Inc.,-,Thomas H. Pike,"4820 Emperor Blvd., Durham, NC 27703",www.quintiles.com
+487,"American Financial Group, Inc.",485,"Carl H. Lindner lll, S. Craig Lindner","301 E. Fourth St., Cincinnati, OH 45202",www.afginc.com
+488,United Stationers Inc.,484,P. Cody Phipps,"1 Parkway N. Blvd., Deerfield, IL 60015",www.unitedstationers.com
+489,"Coach, Inc.",504,Victor Luis,"516 W. 34th St., New York, NY 10001",www.coach.com
+490,LKQ Corporation,568,Robert L. Wagman,"500 W. Madison St., Chicago, IL 60661",www.lkqcorp.com
+491,"Noble Energy, Inc.",535,Charles D. Davidson,"100 Noble Energy Way, Houston, TX 77070",www.nobleenergyinc.com
+492,"Bemis Company, Inc.",479,Henry J. Theisen,"1 Neenah Center, Neenah, WI 54956",www.bemis.com
+493,Joy Global Inc.,446,Edward L. Doheny II,"100 E. Wisconsin Ave., Milwaukee, WI 53202",www.joyglobal.com
+494,Wyndham Worldwide Corporation,528,Stephen P. Holmes,"22 Sylvan Way, Parsippany, NJ 07054",www.wyndhamworldwide.com
+495,"NII Holdings, Inc.",421,Steven M. Shindler,"1875 Explorer St., Reston, VA 20190",www.nii.com
+496,"Lorillard, Inc.",516,Murray S. Kessler,"714 Green Valley Rd., Greensboro, NC 27408",www.lorillard.com
+497,Alleghany Corporation,507,Weston M. Hicks,"7 Times Sq., New York, NY 10036",www.alleghany.com
+498,"Airgas, Inc.",509,Michael L. Molinini,"259 N. Radnor-Chester Rd., Radnor, PA 19087",www.airgas.com
+499,First American Financial Corporation,527,Dennis J. Gilmore,"1 First American Way, Santa Ana, CA 92707",www.firstam.com
+500,"United Rentals, Inc.",569,Michael J. Kneeland,"100 First Stamford Place, Stamford, CT 06902",www.ur.com
+501,Flowserve Corporation,508,Mark A. Blinn,"5215 N. O'Connor Blvd., Irving, TX 75039",www.flowserve.com
+502,"Alpha Natural Resources, Inc.",365,Kevin S. Crutchfield,"1 Alpha Place, Bristol, VA 24202",www.alphanr.com
+503,SPX Corporation,431,Christopher J. Kearney,"13320 Ballantyne Corporate Place, Charlotte, NC 28277",www.spx.com
+504,"Telephone and Data Systems, Inc.",468,LeRoy T. Carlson Jr.,"30 N. LaSalle St., Chicago, IL 60602",www.teldta.com
+505,Momentive Specialty Chemicals Inc.,505,Craig O. Morrison,"180 E. Broad St., Columbus, OH 43215",www.momentive.com
+506,YRC Worldwide Inc.,498,James L. Welch,"10990 Roe Ave., Overland Park, KS 66211",www.yrcw.com
+507,Sonoco Products Company,502,M. Jack Sanders,"1 N. Second St., Hartsville, SC 29550",www.sonoco.com
+508,"Fiserv, Inc.",532,Jeffery W. Yabuki,"255 Fiserv Dr., Brookfield, WI 53045",www.fiserv.com
+509,M&T Bank Corporation,521,Robert G. Wilmers,"1 M&T Plaza, Buffalo, NY 14203",www.mtb.com
+510,Exelis Inc.,453,David F. Melcher,"1650 Tysons Blvd., McLean, VA 22102",www.exelisinc.com
+511,Western & Southern Mutual Holding Company,471,John F. Barrett,"400 Broadway, Cincinnati, OH 45202",www.westernsouthern.com
+512,ABM Industries Incorporated,551,Henrik C. Slipsager,"551 Fifth Ave., New York, NY 10176",www.abm.com
+513,"Quad/Graphics, Inc.",567,J. Joel Quadracci,"N61 W23044 Harry's Way, Sussex, WI 53089",www.qg.com
+514,"The Hanover Insurance Group, Inc.",522,Frederick H. Eppinger Jr.,"440 Lincoln St., Worcester, MA 01653",www.hanover.com
+515,"Expedia, Inc.",583,Dara Khosrowshahi,"333 108th Ave. N.E., Bellevue, WA 98004",www.expediainc.com
+516,Frontier Communications Corporation,492,Mary Agnes Wilderotter,"3 High Ridge Park, Stamford, CT 06905",www.frontier.com
+517,"Genesis Energy, L.P.",579,Grant E. Sims,"919 Milam St., Houston, TX 77002",www.genesisenergy.com
+518,"Ascena Retail Group, Inc.",659,David R. Jaffe,"30 Dunnigan Dr. , Suffern, NY 10901",www.ascenaretail.com
+519,"Harris Teeter Supermarkets, Inc.",526,W. Rodney McMullen,"701 Crestdale Rd., Matthews, NC 28105",www.thekrogerco.com
+520,Avaya Inc.,477,Kevin J. Kennedy,"4655 Great American Pkwy., Santa Clara, CA 95054",www.avaya.com
+521,Levi Strauss & Co.,520,Charles V. Bergh,"1155 Battery St., San Francisco, CA 94111",www.levistrauss.com
+522,Yahoo! Inc.,494,Marissa A. Mayer,"701 First Ave., Sunnyvale, CA 94089",www.yahoo.com
+523,"Juniper Networks, Inc.",542,Shaygan Kheradpir,"1194 N. Mathilda Ave., Sunnyvale, CA 94089",www.juniper.net
+524,Axiall Corporation,664,Paul D. Carrico,"1000 Abernathy Rd. N.E., Atlanta, GA 30328",www.axiall.com
+525,Northern Tier Energy LP,546,Hank Kuchta,"38C Grove St., Ridgefield, CT 06877",www.ntenergy.com
+526,Coty Inc.,-,Michele Scannavini,"350 Fifth Ave., New York, NY 10118",www.coty.com
+527,Neiman Marcus Group LTD Inc.,547,Karen W. Katz,"1618 Main St., Dallas, TX 75201",www.neimanmarcus.com
+528,"Berry Plastics Group, Inc.",503,Jonathan D. Rich,"101 Oakley St., Evansville, IN 47710",www.berryplastics.com
+529,"CA, Inc.",499,Michael P. Gregoire,"1 CA Plaza, Islandia, NY 11749",www.ca.com
+530,Hanesbrands Inc.,518,Richard A. Noll,"1000 E. Hanes Mill Rd., Winston-Salem, NC 27105",www.hanes.com
+531,"Zimmer Holdings, Inc.",534,David C. Dvorak,"345 E. Main St., Warsaw, IN 46580",www.zimmer.com
+532,AGL Resources Inc.,597,John W. Somerhalder II,"10 Peachtree Place N.E., Atlanta, GA 30309",www.aglresources.com
+533,Amphenol Corporation,552,R. Adam Norwitt,"358 Hall Ave., Wallingford, CT 06492",www.amphenol.com
+534,"Superior Energy Services, Inc.",524,David D. Dunlap,"1001 Louisiana St., Houston, TX 77002",www.superiorenergy.com
+535,"Rockwell Collins, Inc.",511,Robert K. Ortberg,"400 Collins Rd. N.E., Cedar Rapids, IA 52498",www.rockwellcollins.com
+536,Sprague Resources LP,-,David C. Glendon,"185 International Dr., Portsmouth, NH 03801",www.spragueenergy.com
+537,"Raymond James Financial, Inc.",601,Paul C. Reilly,"880 Carillon Pkwy., St. Petersburg, FL 33716",www.raymondjames.com
+538,"Annaly Capital Management, Inc.",773,Wellington J. Denahan,"1211 Ave. of the Americas, New York, NY 10036",www.annaly.com
+539,"Activision Blizzard, Inc.",-,Robert A. Kotick,"3100 Ocean Park Blvd., Santa Monica, CA 90405",www.activisionblizzard.com
+540,Pitney Bowes Inc.,489,Marc B. Lautenbach,"1 Elmcroft Rd., Stamford, CT 06926",www.pb.com
+541,KeyCorp,510,Beth E. Mooney,"127 Public Sq., Cleveland, OH 44114",www.key.com
+542,"Michaels Stores, Inc.",539,Carl S. Rubin,"8000 Bent Branch Dr., Irving, TX 75063",www.michaels.com
+543,Cincinnati Financial Corporation,572,Steven J. Johnston,"6200 S. Gilmore Rd., Fairfield, OH 45014",www.cinfin.com
+544,Intuit Inc.,558,Brad D. Smith,"2700 Coast Ave., Mountain View, CA 94043",www.intuit.com
+545,Wisconsin Energy Corporation,557,Gale E. Klappa,"231 W. Michigan St., Milwaukee, WI 53203",www.wisconsinenergy.com
+546,SCANA Corporation,563,Kevin B. Marsh,"100 Scana Pkwy., Cayce, SC 29033",www.scana.com
+547,Graphic Packaging Holding Company,549,David W. Scheible,"1500 Riveredge Pkwy., Atlanta, GA 30328",www.graphicpkg.com
+548,"CNO Financial Group, Inc.",548,Edward J. Bonach,"11825 N. Pennsylvania St., Carmel, IN 46032",www.cnoinc.com
+549,"Energizer Holdings, Inc.",525,Ward M. Klein,"533 Maryville University Dr., St. Louis, MO 63141",www.energizer.com
+550,"MDU Resources Group, Inc.",578,David L. Goodin,"1200 W. Century Ave., Bismarck, ND 58503",www.mdu.com
+551,"Burlington Stores, Inc.",577,Thomas A. Kingsbury,"1830 Route 130 N., Burlington, NJ 08016",www.burlingtonstores.com
+552,Jones Lang LaSalle Incorporated,596,Colin Dyer,"200 E. Randolph Dr., Chicago, IL 60601",www.jll.com
+553,Resolute Forest Products Inc.,530,Richard Garneau,"5300 Cureton Ferry Rd., Catawba, SC 29704",www.resolutefp.com
+554,The Carlyle Group L.P.,720,"William E. Conway Jr., David M. Rubenstein","1001 Pennsylvania Ave. N.W., Washington, DC 20004",www.carlyle.com
+555,"LifePoint Hospitals, Inc.",586,William F. Carpenter III,"330 Seven Springs Way , Brentwood, TN 37027",www.lifepointhospitals.com
+556,NGL Energy Partners LP,-,H. Michael Krimbill,"6120 S. Yale Ave., Tulsa, OK 74136",-
+557,Factory Mutual Insurance Company,541,Shivan S. Subramaniam,"270 Central Ave., Johnston, RI 02919",www.fmglobal.com
+558,"Nexeo Solutions Holdings, LLC",587,David A. Bradley,"3 Waterway Square Place, The Woodlands, TX 77380",www.nexeosolutions.com
+559,"Trinity Industries, Inc.",595,Timothy R. Wallace,"2525 N. Stemmons Freeway, Dallas, TX 75207",www.trin.net
+560,"Williams-Sonoma, Inc.",582,Laura J. Alber,"3250 Van Ness Ave., San Francisco, CA 94109",www.williams-sonomainc.com
+561,"Pepco Holdings, Inc.",483,Joseph M. Rigby,"701 Ninth St. N.W., Washington, DC 20068",www.pepcoholdings.com
+562,"Apollo Global Management, LLC",676,Leon Black,"9 W. 57th St., New York, NY 10019",www.agm.com
+563,"Netflix, Inc.",629,Reed Hastings,"100 Winchester Circle, Los Gatos, CA 95032",www.netflix.com
+564,Alliant Techsystems Inc.,519,Mark W. DeYoung,"1300 Wilson Blvd., Arlington, VA 22209",www.atk.com
+565,"Keurig Green Mountain, Inc.",605,Brian P. Kelley,"33 Coffee Lane, Waterbury, VT 05676",www.gmcr.com
+566,Greif,555,David B. Fischer,"425 Winter Rd., Delaware, OH 43015",www.greif.com
+567,"MasTec, Inc.",606,José R. Mas,"800 S. Douglas Rd., Coral Gables, FL 33134",www.mastec.com
+568,The Timken Company,493,James W. Griffith,"1835 Dueber Ave. S.W., Canton, OH 44706",www.timken.com
+569,Aleris Corporation,538,Steven J. Demetriou,"25825 Science Park Dr., Cleveland, OH 44122",www.aleris.com
+570,Markel Corporation,713,Alan I. Kirshner,"4521 Highwoods Pkwy., Glen Allen, VA 23060",www.markelcorp.com
+571,Alliance Data Systems Corporation,626,Edward J. Heffernan,"7500 Dallas Pkwy., Plano, TX 75024",www.alliancedata.com
+572,Cintas Corporation,574,Scott D. Farmer,"6800 Cintas Blvd., Cincinnati, OH 45262",www.cintas.com
+573,"Team Health Holdings, Inc.",618,Gregory S. Roth,"265 Brookview Centre Way, Knoxville, TN 37919",www.teamhealth.com
+574,Allegheny Technologies Incorporated,490,Richard J. Harshman,"1000 Six PPG Place, Pittsburgh, PA 15222",www.atimetals.com
+574,Northern Trust Corporation,561,Frederick H. Waddell,"50 S. LaSalle St., Chicago, IL 60603",www.northerntrust.com
+576,"Harman International Industries, Incorporated",543,Dinesh C. Paliwal,"400 Atlantic St., Stamford, CT 06901",www.harman.com
+577,Robert Half International Inc.,571,Harold M. Messmer Jr.,"2884 Sand Hill Rd., Menlo Park, CA 94025",www.roberthalf.com
+578,"NVR, Inc.",679,Paul C. Saville,"11700 Plaza America Dr., Reston, VA 20190",www.nvrinc.com
+579,Colfax Corporation,599,Steven E. Simms,"8170 Maple Lawn Blvd., Fulton, MD 20759",www.colfaxcorp.com
+580,Molson Coors Brewing Company,598,Peter Swinburn,"1225 17th St., Denver, CO 80202",www.molsoncoors.com
+581,FMC Corporation,617,Pierre R. Brondeau,"1735 Market St., Philadelphia, PA 19103",www.fmc.com
+582,Mead Johnson Nutrition Company,600,Peter Kasper Jakobsen,"2701 Patriot Blvd., Glenview, IL 60026",www.meadjohnson.com
+583,"VWR Funding, Inc.",566,Manuel A.H. Brocke-Benz,"100 Matsonford Rd., Radnor, PA 19087",www.vwr.com
+584,Hyatt Hotels Corporation,593,Mark S. Hoplamazian,"71 S. Wacker Dr., Chicago, IL 60606",www.hyatt.com
+585,SunGard Data Systems Inc.,550,Russell P. Fradin,"680 E. Swedesford Rd., Wayne, PA 19087",www.sungard.com
+586,Tutor Perini Corporation,570,Ronald N. Tutor,"15901 Olden St., Sylmar, CA 91342",www.tutorperini.com
+587,"Fortune Brands Home & Security, Inc.",630,Christopher J. Klein,"520 Lake Cook Rd., Deerfield, IL 60015",www.fbhs.com
+588,LPL Financial Holdings Inc.,625,Mark S. Casady,"75 State St., Boston, MA 02109",www.lpl.com
+589,NVIDIA Corporation,553,Jen-Hsun Huang,"2701 San Tomas Expressway, Santa Clara, CA 95050",www.nvidia.com
+590,"Bloomin’ Brands, Inc.",590,Elizabeth A. Smith,"2202 N. West Shore Blvd., Tampa, FL 33607",www.bloominbrands.com
+591,"McCormick & Company, Incorporated",588,Alan D. Wilson,"18 Loveton Circle, Sparks, MD 21152",www.mccormickcorporation.com
+592,Science Applications International Corporation,-,Anthony J. Moraco,"1710 Saic Dr., McLean, VA 22102",www.saic.com
+593,Swift Transportation Company,643,Jerry C. Moyes,"2200 S. 75th Ave., Phoenix, AZ 85043",www.swifttrans.com
+594,Abercrombie & Fitch Co.,529,Michael S. Jeffries,"6301 Fitch Path, New Albany, OH 43054",www.abercrombie.com
+595,The Valspar Corporation,584,Gary E. Hendrickson,"901 Third Ave. S., Minneapolis, MN 55402",www.valsparglobal.com
+596,The Brink’s Company,594,Thomas C. Schievelbein,"1801 Bayberry Court, Richmond, VA 23226",www.brinks.com
+597,"Hasbro, Inc.",576,Brian D. Goldner,"1027 Newport Ave., Pawtucket, RI 02861",www.hasbro.com
+598,RPM International Inc.,613,Frank C. Sullivan,"2628 Pearl Rd., Medina, OH 44256",www.rpminc.com
+599,"salesforce.com, inc.",702,Marc R. Benioff,"1 Market St., San Francisco, CA 94105",www.salesforce.com
+600,"The Manitowoc Company, Inc.",591,Glen E. Tellock,"2400 S. 44th St., Manitowoc, WI 54220",www.manitowoc.com
+601,Adobe Systems Incorporated,540,Shantanu Narayen,"345 Park Ave., San Jose, CA 95110",www.adobe.com
+602,"Lithia Motors, Inc.",653,Bryan B. DeBoer,"150 N. Bartlett St., Medford, OR 97501",www.lithiamotors.com
+603,"Belk, Inc.",592,Thomas M. Belk Jr.,"2801 W. Tyvola Rd., Charlotte, NC 28217",www.belk.com
+604,Tiffany & Co.,611,Michael J. Kowalski,"727 Fifth Ave., New York, NY 10022",www.tiffany.com
+605,Pioneer Natural Resources Company,667,Scott D. Sheffield,"5205 N. O'Connor Blvd., Irving, TX 75039",www.pxd.com
+606,"Hospira, Inc.",575,F. Michael Ball,"275 N. Field Dr., Lake Forest, IL 60045",www.hospira.com
+607,Liberty Media Corporation,-,Gregory B. Maffei,"12300 Liberty Blvd., Englewood, CO 80112",www.libertymedia.com
+608,Hillshire Brands Company,288,Sean M. Connolly,"400 S. Jefferson St., Chicago, IL 60607",www.hillshirebrands.com
+609,Protective Life Corporation,628,John D. Johns,"2801 Hwy. 280 S., Birmingham, AL 35223",www.protective.com
+610,"Roundy’s, Inc.",602,Robert A. Mariano,"875 E. Wisconsin Ave., Milwaukee, WI 53202",www.roundys.com
+611,"Adams Resources & Energy, Inc.",651,Frank T. Webster,"17 S. Briar Hollow Lane, Houston, TX 77027",www.adamsresources.com
+612,Atmos Energy Corporation,634,Kim R. Cocklin,"5430 L.B.J. Freeway, Dallas, TX 75240",www.atmosenergy.com
+613,Brunswick Corporation,615,Dustan E. McCoy,"1 N. Field Court, Lake Forest, IL 60045",www.brunswick.com
+614,Graham Holdings Company,580,Donald E. Graham,"1150 15th St. N.W., Washington, DC 20071",www.ghco.com
+615,Stater Bros. Holdings Inc.,603,Jack H. Brown,"301 S. Tippecanoe Ave., San Bernadino, CA 92408",www.staterbros.com
+616,"American Tire Distributors Holdings, Inc.",647,William E. Berry,"12200 Herbert Wayne Court, Huntersville, NC 28078",www.atd-us.com
+617,Xylem Inc.,612,Patrick K. Decker,"1 International Dr., Rye Brook, NY 10573",www.xyleminc.com
+618,PolyOne Corporation,715,Robert M. Patterson,"33587 Walker Rd., Avon Lake, OH 44012",www.polyone.com
+619,Del Monte Corporation,623,David J. West,"1 Maritime Plaza, San Francisco, CA 94111",www.delmontefoods.com
+620,Electronic Arts Inc.,565,Andrew Wilson,"209 Redwood Shores Pkwy., Redwood City, CA 94065",www.ea.com
+621,Polaris Industries Inc.,674,Scott W. Wine,"2100 Hwy. 55, Medina, MN 55340",www.polaris.com
+622,Torchmark Corporation,631,"Gary L. Coleman, Larry M. Hutchison","3700 S. Stonebridge Dr. , McKinney, TX 75070",www.torchmarkcorp.com
+623,The Jones Group Inc.,608,Wesley R. Card,"1411 Broadway, New York, NY 10018",www.jonesgroupinc.com
+624,Westlake Chemical Corporation,633,Albert Chao,"2801 Post Oak Blvd., Houston, TX 77056",www.westlake.com
+625,"Flowers Foods, Inc.",703,Allen L. Shiver,"1919 Flowers Circle, Thomasville, GA 31757",www.flowersfoods.com
+626,"Leggett & Platt, Incorporated",619,David S. Haffner,"1 Leggett Rd., Carthage, MO 64836",www.leggett.com
+627,"Watsco, Inc.",648,Albert H. Nahmad,"2665 S. Bayshore Dr., Miami, FL 33133",www.watsco.com
+628,"Oil States International, Inc.",537,Cindy B. Taylor,"333 Clay St., Houston, TX 77002",www.oilstatesintl.com
+629,"Ingles Markets, Incorporated",620,Robert P. Ingle II,"2913 U.S. Hwy. 70 W., Black Mountain, NC 28711",www.ingles-markets.com
+630,"Envision Healthcare Holdings, Inc.",669,William A. Sanger,"6200 S. Syracuse Way, Greenwood Village, CO 80111",www.evhc.net
+631,Carlisle Companies Incorporated,627,David A. Roberts,"11605 N. Community House Rd., Charlotte, NC 28277",www.carlisle.com
+632,Silgan Holdings Inc.,632,Anthony J. Allott,"4 Landmark Sq., Stamford, CT 06901",www.silganholdings.com
+633,"Triumph Group, Inc.",650,Jeffry D. Frisby,"899 Cassatt Rd., Berwyn, PA 19312",www.triumphgroup.com
+634,Meritor Inc.,536,Ivor J. Evans,"2135 W. Maple Rd., Troy, MI 48084",www.meritor.com
+635,"Unified Grocers, Inc.",610,Robert M. Ling Jr.,"5200 Sheila St., Commerce, CA 90040",www.unifiedgrocers.com
+636,"Thor Industries, Inc.",697,Robert W. Martin,"601 E. Beardsley Ave., Elkhart, IN 46514",www.thorindustries.com
+637,CACI International Inc.,614,Kenneth Asbury,"1100 N. Glebe Rd., Arlington, VA 22201",www.caci.com
+638,"Apollo Education Group, Inc.",554,Gregory W. Cappelli,"4025 S. Riverpoint Pkwy., Phoenix, AZ 85040",www.apollogrp.edu
+639,"Lexmark International, Inc.",609,Paul A. Rooke,"740 W. New Circle Rd., Lexington, KY 40550",www.lexmark.com
+640,Packaging Corporation of America,740,Mark W. Kowlzan,"1955 W. Field Court, Lake Forest, IL 60045",www.packagingcorp.com
+641,"Securian Financial Group, Inc.",639,Robert L. Senkler,"400 Robert St. N., St. Paul, MN 55101",www.securian.com
+642,"Patterson Companies, Inc.",636,Scott P. Anderson,"1031 Mendota Heights Rd., St. Paul, MN 55120",www.pattersoncompanies.com
+643,"Sally Beauty Holdings, Inc.",638,Gary G. Winterhalter,"3001 Colorado Blvd., Denton, TX 76210",www.sallybeautyholdings.com
+644,"ARRIS Group, Inc.",-,Robert J. Stanzione,"3871 Lakefield Dr., Suwanee, GA 30024",www.arrisi.com
+645,Molex Incorporated,644,Martin P. Slark,"2222 Wellington Court, Lisle, IL 60532",www.molex.com
+646,Cabela’s Incorporated,691,Thomas L. Millner,"1 Cabela Dr., Sidney, NE 69160",www.cabelas.com
+647,Lam Research Corporation,775,Martin B. Anstice,"4650 Cushing Pkwy., Fremont, CA 94538",www.lamrc.com
+648,Towers Watson & Co.,649,John J. Haley,"875 Third Ave., New York, NY 10022",www.towerswatson.com
+649,"AMETEK, Inc.",662,Frank S. Hermance,"1100 Cassatt Rd., Berwyn, PA 19312",www.ametek.com
+650,USG Corporation,663,James S. Metcalf,"550 W. Adams St., Chicago, IL 60661",www.usg.com
+651,CareFusion Corporation,622,Kieran T. Gallahue,"3750 Torrey View Court, San Diego, CA 92130",www.carefusion.com
+652,"Magellan Health Services, Inc.",675,Barry M. Smith,"55 Nod Rd., Avon, CT 06001",www.magellanhealth.com
+653,Perrigo Company plc,680,Joseph C. Papa,"515 Eastern Ave., Allegan, MI 49010",www.perrigo.com
+654,CIT Group Inc.,589,John A. Thain,"11 W. 42nd St., New York, NY 10036",www.cit.com
+655,"Rockwood Holdings, Inc.",640,Seifi Ghasemi,"100 Overlook Center, Princeton, NJ 08540",www.rocksp.com
+656,"Clean Harbors, Inc.",882,Alan S. McKim,"42 Longwater Dr., Norwell, MA 02061",www.cleanharbors.com
+657,RadioShack Corporation,556,Joseph C. Magnacca,"300 RadioShack Circle, Fort Worth, TX 76102",www.radioshackcorporation.com
+658,"T. Rowe Price Group, Inc.",709,James A. C. Kennedy,"100 E. Pratt St., Baltimore, MD 21202",www.troweprice.com
+659,"B/E Aerospace, Inc.",696,"Amin J. Khoury, Werner Lieberherr","1400 Corporate Center Way, Wellington, FL 33414",www.beaerospace.com
+660,"CommScope Holding Company, Inc.",-,Marvin S. Edwards Jr.,"1100 CommScope Place S.E., Hickory, NC 28602",www.commscope.com
+661,NuStar Energy L.P.,389,Bradley C. Barron,"19003 IH-10 W., San Antonio, TX 78257",www.nustarenergy.com
+662,Cabot Corporation,660,Patrick M. Prevost,"2 Seaport Lane, Boston, MA 02210",www.cabot-corp.com
+663,Ryerson Holding Corporation,-,Michael C. Arnold,"227 W. Monroe St., Chicago, IL 60606",www.ryerson.com
+664,Unisys Corporation,621,J. Edward Coleman,"801 Lakeview Dr., Blue Bell, PA 19422",www.unisys.com
+665,United Refining Company,641,John A. Catsimatidis,"15 Bradley St., Warren, PA 16365",www.urc.com
+666,"Continental Resources, Inc.",796,Harold G. Hamm,"20 N. Broadway, Oklahoma City, OK 73102",www.clr.com
+667,Pinnacle West Capital Corporation,668,Donald E. Brandt,"400 N. Fifth St., Phoenix, AZ 85004",www.pinnaclewest.com
+668,COUNTRY Financial,654,Kurt F. Bock,"1701 N. Towanda Ave., Bloomington, IL 61701",www.countryfinancial.com
+669,Cooper Tire & Rubber Company,560,Roy V. Armes,"701 Lima Ave., Findlay, OH 45840",www.coopertire.com
+670,"HSN, Inc.",666,Mindy F. Grossman,"1 HSN Dr., St. Petersburg, FL 33729",www.hsni.com
+671,"Helmerich & Payne, Inc.",684,Hans Helmerich,"1437 S. Boulder Ave., Tulsa, OK 74119",www.hpinc.com
+672,"Rush Enterprises, Inc.",695,W. M. Rush,"555 Interstate 35 S., New Braunfels, TX 78130",www.rushenterprises.com
+673,"Hub Group, Inc.",688,David P. Yeager,"2000 Clearwater Dr., Oak Brook, IL 60523",www.hubgroup.com
+674,Southwestern Energy Company,768,Steven L. Mueller,"2350 N. Sam Houston Pkwy. E., Houston, TX 77032",www.swn.com
+675,CMFG Life Insurance Company,693,Robert N. Trunzo,"5910 Mineral Point Rd., Madison, WI 53705",www.cunamutual.com
+676,American Tower Corporation,734,James D. Taiclet Jr.,"116 Huntington Ave., Boston, MA 02116",www.americantower.com
+677,Systemax Inc.,635,Richard Leeds,"11 Harbor Park Dr., Port Washington, NY 11050",www.systemax.com
+678,Fastenal Company,687,Willard D. Oberton,"2001 Theurer Blvd., Winona, MN 55987",www.fastenal.com
+679,ADT Corporation,671,Naren Gursahaney,"1501 Yamato Rd., Boca Raton, FL 33431",www.adt.com
+680,"First Solar, Inc.",657,James A. Hughes,"350 W. Washington St., Tempe, AZ 85281",www.firstsolar.com
+681,"American Eagle Outfitters, Inc.",642,Jay L. Schottenstein,"77 Hot Metal St., Pittsburgh, PA 15203",www.ae.com
+682,"Valmont Industries, Inc.",706,Mogens C. Bay,"1 Valmont Plaza, Omaha, NE 68154",www.valmont.com
+683,"SkyWest, Inc.",637,Jerry C. Atkin,"444 S. River Rd., St. George, UT 84790",www.skywest.com
+684,"Delta Tucker Holdings, Inc.",581,Steven F. Gaffney,"1700 Old Meadow Rd., McLean, VA 22102",www.dyn-intl.com
+685,"Oceaneering International, Inc.",752,M. Kevin McEvoy,"11911 FM 529 Rd., Houston, TX 77041",www.oceaneering.com
+686,EchoStar Corporation,689,Michael T. Dugan,"100 Inverness Terrace E., Englewood, CO 80112",www.echostar.com
+687,Alliant Energy Corporation,655,Patricia L. Kampling,"4902 N. Biltmore Lane, Madison, WI 53718",www.alliantenergy.com
+688,Boise Cascade Company,754,Thomas E. Carlile,"1111 W. Jefferson St., Boise, ID 83702",www.bc.com
+689,Lennox International Inc.,658,Todd M. Bluedorn,"2140 Lake Park Blvd., Richardson, TX 75080",www.lennoxinternational.com
+690,The Babcock & Wilcox Company,670,E. James Ferland,"13024 Ballantyne Corporate Place, Charlotte, NC 28277",www.babcock.com
+691,"Fossil Group, Inc.",735,Kosta N. Kartsotis,"901 S. Central Expressway, Richardson, TX 75080",www.fossilgroup.com
+692,"Hawaiian Electric Industries, Inc.",656,Constance H. Lau,"1001 Bishop St., Honolulu, HI 96813",www.hei.com
+693,"Roper Industries, Inc.",714,Brian D. Jellison,"6901 Professional Pkwy. E., Sarasota, FL 34240",www.roperind.com
+694,Snap-on Incorporated,694,Nicholas T. Pinchuk,"2801 80th St., Kenosha, WI 53143",www.snapon.com
+695,"Arch Coal, Inc.",564,John W. Eaves,"1 CityPlace Dr., St. Louis, MO 63141",www.archcoal.com
+696,"Chipotle Mexican Grill, Inc.",763,"M. Steven Ells , Montgomery F. Moran","1401 Wynkoop St., Denver, CO 80202",www.chipotle.com
+697,"The NASDAQ OMX Group, Inc.",690,Robert Greifeld,"1 Liberty Plaza, New York, NY 10006",www.nasdaqomx.com
+698,"American Axle & Manufacturing Holdings, Inc.",723,David C. Dauch,"1 Dauch Dr., Detroit, MI 48211",www.aam.com
+699,New Jersey Resources Corporation,863,Laurence M. Downes,"1415 Wyckoff Rd., Wall, NJ 07719",www.njresources.com
+700,"Church & Dwight Co., Inc.",725,James R. Craigie,"500 Charles Ewing Blvd., Ewing, NJ 08628",www.churchdwight.com
+701,"The ServiceMaster Company, LLC",678,Robert J. Gillette,"860 Ridge Lake Blvd., Memphis, TN 38120",www.servicemaster.com
+702,"Exterran Holdings, Inc.",736,D. Bradley Childers,"16666 Northchase Dr., Houston, TX 77060",www.exterran.com
+703,"Puget Energy, Inc.",673,Kimberly J. Harris,"10885 N.E. 4th St., Bellevue, WA 98004",www.pugetenergy.com
+704,Eastman Kodak Company,562,Jeffrey J. Clarke,"343 State St., Rochester, NY 14650",www.kodak.com
+705,Hubbell Incorporated,705,David G. Nord,"40 Waterview Dr., Shelton, CT 06484",www.hubbell.com
+706,Arthur J. Gallagher & Co.,806,J. Patrick Gallagher Jr.,"2 Pierce Place, Itasca, IL 60143",www.ajg.com
+707,"Nu Skin Enterprises, Inc.",891,M. Truman Hunt,"75 W. Center St., Provo, UT 84601",www.nuskinenterprises.com
+708,"NBTY, Inc.",701,Jeffrey A. Nagel,"2100 Smithtown Ave., Ronkonkoma, NY 11779",www.nbty.com
+709,"Forest Laboratories, Inc.",523,Brenton L. Saunders,"909 Third Ave., New York, NY 10022",www.frx.com
+710,American National Insurance Company,717,Robert L. Moody,"1 Moody Plaza, Galveston, TX 77550",www.anico.com
+711,"Rent-A-Center, Inc.",699,Robert D. Davis,"5501 Headquarters Dr., Plano, TX 75024",www.rentacenter.com
+712,Sabre Corporation,-,Thomas Klein,"3150 Sabre Dr., Southlake, TX 76092",www.sabre.com
+713,Regal Beloit Corporation,682,Mark J. Gliebe,"200 State St., Beloit, WI 53511",www.regalbeloit.com
+714,Cooper-Standard Holdings Inc.,733,Jeffrey S. Edwards,"39550 Orchard Hill Place Dr., Novi, MI 48375",www.cooperstandard.com
+715,"Urban Outfitters, Inc.",749,Richard A. Hayne,"5000 S. Broad St., Philadelphia, PA 19112",www.urbanoutfittersinc.com
+716,W.R. Grace & Co.,683,Alfred E. Festa,"7500 Grace Dr., Columbia, MD 21044",www.grace.com
+717,"Chiquita Brands International, Inc.",700,Edward F. Lonergan,"550 S. Caldwell St., Charlotte, NC 28202",www.chiquita.com
+718,NewPage Holdings Inc.,-,George F. Martin,"8540 Gander Creek Dr., Miamisburg, OH 45342",www.newpagecorp.com
+719,"LVB Acquisition, Inc.",741,Jeffrey R. Binder,"56 E. Bell Dr., Warsaw, IN 46582",www.biomet.com
+720,"C.R. Bard, Inc.",721,Timothy M. Ring,"730 Central Ave., Murray Hill, NJ 07974",www.crbard.com
+721,"Green Plains Renewable Energy, Inc.",645,Todd A. Becker,"450 Regency Pkwy., Omaha, NE 68114",www.gpreinc.com
+722,Regal Entertainment Group,742,Amy E. Miles,"7132 Regal Lane, Knoxville, TN 37918",www.regmovies.com
+723,PHH Corporation,646,Glen A. Messina,"3000 Leadenhall Rd., Mount Laurel, NJ 08054",www.phh.com
+724,Dresser-Rand Group Inc.,760,Vincent R. Volpe Jr.,"10205 Westheimer Rd., Houston, TX 77042",www.dresser-rand.com
+725,Alere Inc.,745,Ron Zwanziger,"51 Sawyer Rd., Waltham, MA 02453",www.alere.com
+726,Iron Mountain Incorporated,712,William L. Meaney,"1 Federal St., Boston, MA 02110",www.ironmountain.com
+727,IAC/InterActiveCorp,748,Barry Diller,"555 W. 18th St., New York, NY 10011",www.iac.com
+728,Crown Castle International Corp.,829,W. Benjamin Moreland,"1220 Augusta Dr., Houston, TX 77057",www.crowncastle.com
+729,"DCP Midstream Partners, LP",-,Wouter T. van Kempen,"370 17th St., Denver, CO 80202",www.dcppartners.com
+730,Select Medical Holdings Corporation,722,David S. Chernow,"4714 Gettysburg Rd., Mechanicsburg, PA 17055",www.selectmedicalholdings.com
+731,Moody’s Corporation,765,Raymond W. McDaniel Jr.,"250 Greenwich St., New York, NY 10007",www.moodys.com
+732,Exide Technologies,698,Robert M. Caruso,"13000 Deerfield Pkwy., Milton, GA 30004",www.exide.com
+733,"Amkor Technology, Inc.",757,Stephen D. Kelley,"1900 S. Price Rd., Chandler, AZ 85286",www.amkor.com
+734,International Flavors & Fragrances Inc.,743,Douglas D. Tough,"521 W. 57th St., New York, NY 10019",www.iff.com
+735,DENTSPLY International Inc.,724,Bret W. Wise,"221 W. Philadelphia St., York, PA 17401",www.dentsply.com
+736,Iasis Healthcare LLC,738,W. Carl Whitmer,"117 Seaboard Lane, Franklin, TN 37067",www.iasishealthcare.com
+737,"Varian Medical Systems, Inc.",747,Dow R. Wilson,"3100 Hansen Way, Palo Alto, CA 94304",www.varian.com
+738,CME Group Inc.,726,Phupinder S. Gill,"20 S. Wacker Dr., Chicago, IL 60606",www.cmegroup.com
+739,"QEP Resources, Inc.",848,Charles B. Stanley,"1050 17th St., Denver, CO 80265",www.qepres.com
+740,"Penn National Gaming, Inc.",729,Timothy J. Wilmott,"825 Berkshire Blvd., Wyomissing, PA 19610",www.pngaming.com
+741,"Citrix Systems, Inc.",789,Mark B. Templeton,"851 W. Cypress Creek Rd., Fort Lauderdale, FL 33309",www.citrix.com
+742,Cerner Corporation,774,Neal L. Patterson,"2800 Rockcreek Pkwy., North Kansas City, MO 64117",www.cerner.com
+743,"H&R Block, Inc.",665,William C. Cobb,"1 H&R Block Way, Kansas City, MO 64105",www.hrblock.com
+744,Tribune Company,-,Peter Liguori,"435 N. Michigan Ave., Chicago, IL 60611",www.tribune.com
+745,"American Water Works Company, Inc.",731,Susan N. Story,"1025 Laurel Oak Rd., Voorhees, NJ 08043",www.amwater.com
+746,Health Care REIT,975,Thomas J. DeRosa,"4500 Dorr St., Toledo, OH 43615",www.hcreit.com
+747,"Leap Wireless International, Inc.",686,Randall L. Stephenson,"5887 Copley Dr., San Diego, CA 92111",www.att.com
+748,Harsco Corporation,704,David C. Everitt,"350 Poplar Church Rd., Camp Hill, PA 17011",www.harsco.com
+749,Boyd Gaming Corporation,814,Keith E. Smith,"3883 Howard Hughes Pkwy., Las Vegas, NV 89169",www.boydgaming.com
+750,Brookdale Senior Living Inc.,755,T. Andrew Smith,"111 Westwood Place, Brentwood, TN 37027",www.brookdale.com
+751,"ScanSource, Inc.",711,Michael L. Baur,"6 Logue Court, Greenville, SC 29615",www.scansourceinc.com
+752,Warner Music Group Corp.,753,Stephen F. Cooper,"75 Rockefeller Plaza, New York, NY 10019",www.wmg.com
+753,Steelcase Inc.,758,James P. Keane,"901 44th St. S.E., Grand Rapids, MI 49508",www.steelcase.com
+754,OGE Energy Corp.,624,Peter B. Delaney,"321 N. Harvey Ave., Oklahoma City, OK 73102",www.oge.com
+755,"StanCorp Financial Group, Inc.",730,J. Gregory Ness,"1100 S.W. Sixth Ave., Portland, OR 97204",www.stancorpfinancial.com
+756,Huntington Bancshares Incorporated,707,Stephen D. Steinour,"41 S. High St., Columbus, OH 43287",www.huntington.com
+757,"Diebold, Incorporated",716,Andreas W. Mattes,"5995 Mayfair Rd., North Canton, OH 44720",www.diebold.com
+758,"Lincoln Electric Holdings, Inc.",737,Christopher L. Mapes,"22801 St. Clair Ave., Cleveland, OH 44117",www.lincolnelectric.com
+759,"TECO Energy, Inc.",692,John B. Ramil,"702 N. Franklin St., Tampa, FL 33602",www.tecoenergy.com
+760,Brown-Forman Corporation,767,Paul C. Varga,"850 Dixie Hwy., Louisville, KY 40210",www.brown-forman.com
+761,"Brinker International, Inc.",744,Wyman T. Roberts,"6820 L.B.J. Freeway, Dallas, TX 75240",www.brinker.com
+762,KLA-Tencor Corporation,681,Richard P. Wallace,"1 Technology Dr., Milpitas, CA 95035",www.kla-tencor.com
+763,"The Bon-Ton Stores, Inc.",719,Brendan L. Hoffman,"2801 E. Market St., York, PA 17402",www.bonton.com
+764,Whiting Petroleum Corporation,889,James J. Volker,"1700 Broadway, Denver, CO 80290",www.whiting.com
+765,"Ventas, Inc.",807,Debra A. Cafaro,"353 N. Clark St., Chicago, IL 60654",www.ventasreit.com
+766,Endo International plc,708,Rajiv De Silva,"1400 Atwater Dr., Malvern, PA 19355",www.endo.com
+767,Mercury General Corporation,751,Gabriel Tirador,"4484 Wilshire Blvd., Los Angeles, CA 90010",www.mercuryinsurance.com
+768,The Scotts Miracle-Gro Company,739,James Hagedorn,"14111 Scottslawn Rd., Marysville, OH 43041",www.scotts.com
+769,Vornado Realty Trust,727,Steven Roth,"888 Seventh Ave., New York, NY 10019",www.vno.com
+770,"Constellation Brands, Inc.",779,Robert S. Sands,"207 High Point Dr., Victor, NY 14564",www.cbrands.com
+771,ON Semiconductor Corporation,732,Keith D. Jackson,"5005 E. McDowell Rd., Phoenix, AZ 85008",www.onsemi.com
+772,TD Ameritrade Holding Corporation,780,Fredric J. Tomczyk,"200 S. 108th Ave., Omaha, NE 68154",www.amtd.com
+773,Vulcan Materials Company,797,Donald M. James,"1200 Urban Center Dr., Birmingham, AL 35242",www.vulcanmaterials.com
+774,"AmTrust Financial Services, Inc.",986,Barry D. Zyskind,"59 Maiden Lane, New York, NY 10038",www.amtrustgroup.com
+775,Chemtura Corporation,710,Craig A. Rogerson,"1818 Market St., Philadelphia, PA 19103",www.chemtura.com
+776,"WPX Energy, Inc.",672,Richard E. Muncrief,"1 Williams Center, Tulsa, OK 74172",www.wpxenergy.com
+777,Sentry Insurance Group,802,Peter G. McPartland,"1800 N. Point Dr., Stevens Point, WI 54481",www.sentry.com
+778,WABCO Holdings Inc.,816,Jacques Esculier,"1 Centennial Ave., Piscataway, NJ 08854",www.wabco-auto.com
+779,"Armstrong World Industries, Inc.",762,Matthew J. Espe,"2500 Columbia Ave., Lancaster, PA 17603",www.armstrong.com
+780,"Patterson-UTI Energy, Inc.",766,William A. Hendricks Jr.,"450 Gears Rd., Houston, TX 77067",www.patenergy.com
+781,Sigma-Aldrich Corporation,784,Rakesh Sachdev,"3050 Spruce St., St. Louis, MO 63103",www.sigma-aldrich.com
+782,"Weis Markets, Inc.",770,Jonathan H. Weis,"1000 S. Second St., Sunbury, PA 17801",www.weismarkets.com
+783,Teradata Corporation,776,Michael F. Koehler,"10000 Innovation Dr., Dayton, OH 45342",www.teradata.com
+784,Medical Mutual of Ohio,782,Richard A. Chiricosta,"2060 E. Ninth St., Cleveland, OH 44115",www.medmutual.com
+785,"Wolverine World Wide, Inc.",-,Blake W. Krueger,"9341 Cortland Dr. N.E., Rockford, MI 49351",www.wolverineworldwide.com
+786,"Landstar System, Inc.",750,Henry H. Gerkens,"13410 Sutton Park Dr. S., Jacksonville, FL 32224",www.landstar.com
+787,West Corporation,781,Thomas B. Barker,"11808 Miracle Hills Dr., Omaha, NE 68154",www.west.com
+788,"Sanderson Farms, Inc.",840,Joe F. Sanderson Jr.,"127 Flynt Rd., Laurel, MS 39443",www.sandersonfarms.com
+789,"Cinemark Holdings, Inc.",818,Timothy Warner,"3900 Dallas Pkwy., Plano, TX 75093",www.cinemark.com
+790,Newfield Exploration Company,798,Lee K. Boothby,"4 Waterway Square Place, The Woodlands, TX 77380",www.newfield.com
+791,"Toll Brothers, Inc.",979,Douglas C. Yearley Jr.,"250 Gibraltar Rd., Horsham, PA 19044",www.tollbrothers.com
+792,Tupperware Brands Corporation,790,E. V. Goings,"14901 S. Orange Blossom Trail, Orlando, FL 32837",www.tupperwarebrands.com
+793,"Ulta Salon, Cosmetics & Fragrance, Inc.",873,Mary N. Dillon,"1000 Remington Blvd., Bolingbrook, IL 60440",www.ulta.com
+794,"Hyster-Yale Materials Handling, Inc.",820,Alfred M. Rankin Jr.,"5875 Landerbrook Dr., Cleveland, OH 44124",www.hyster-yale.com
+795,"DST Systems, Inc.",795,Stephen C. Hooley,"333 W. 11th St., Kansas City, MO 64105",www.dstsystems.com
+796,Pall Corporation,728,Lawrence D. Kingsley,"25 Harbor Park Dr., Port Washington, NY 11050",www.pall.com
+797,"Cracker Barrel Old Country Store, Inc.",793,Sandra B. Cochran,"305 Hartmann Dr., Lebanon, TN 37087",www.crackerbarrel.com
+798,"Carter’s, Inc.",841,Michael D. Casey,"3438 Peachtree Rd. N.E., Atlanta, GA 30326",www.carters.com
+799,"Analog Devices, Inc.",771,Vincent T. Roche,"1 Technology Way, Norwood, MA 02062",www.analog.com
+800,"GNC Holdings, Inc.",830,Joseph M. Fortunato,"300 Sixth Ave., Pittsburgh, PA 15222",www.gnc.com
+801,Univision Communications Inc.,826,Randel A. Falco,"605 Third Ave., New York, NY 10158",www.univision.net
+802,Genesco Inc.,785,Robert J. Dennis,"1415 Murfreesboro Rd., Nashville, TN 37217",www.genesco.com
+803,"Schnitzer Steel Industries, Inc.",661,Tamara L. Lundgren,"299 S.W. Clay St.., Portland, OR 97201",www.schnitzersteel.com
+804,Albemarle Corporation,759,Luther C. Kissam IV,"451 Florida St., Baton Rouge, LA 70801",www.albemarle.com
+805,"Tetra Tech, Inc.",769,Dan L. Batrack,"3475 E. Foothill Blvd., Pasadena, CA 91107",www.tetratech.com
+806,"Legg Mason, Inc.",777,Joseph A. Sullivan,"100 International Dr., Baltimore, MD 21202",www.leggmason.com
+807,"Worthington Industries, Inc.",801,John P. McConnell,"200 Old Wilson Bridge Rd., Columbus, OH 43085",www.worthingtonindustries.com
+808,American Equity Investment Life Holding Company,-,John M. Matovina,"6000 Westown Pkwy., West Des Moines, IA 50266",www.american-equity.com
+809,Moog Inc.,819,John R. Scannell,"Jamison Rd., East Aurora, NY 14052",www.moog.com
+810,Comerica Incorporated,772,Ralph W. Babb Jr.,"1717 Main St., Dallas, TX 75201",www.comerica.com
+811,SpartanNash,783,Dennis Eidson,"850 76th St. S.W., Grand Rapids, MI 49518",www.spartanstores.com
+812,Crane Co.,786,Max H. Mitchell,"100 First Stamford Place, Stamford, CT 06902",www.craneco.com
+813,Covance Inc.,844,Joseph L. Herring,"210 Carnegie Center, Princeton, NJ 08540",www.covance.com
+814,Kennametal Inc.,761,Carlos M. Cardoso,"1600 Technology Way, Latrobe, PA 15650",www.kennametal.com
+815,"Chico’s FAS, Inc.",792,David F. Dyer,"11215 Metro Pkwy., Fort Myers, FL 33966",www.chicosfas.com
+816,"Groupon, Inc.",851,Eric P. Lefkofsky,"600 W. Chicago Ave., Chicago, IL 60654",www.groupon.com
+817,"Guess?, Inc.",778,Paul Marciano,"1444 S. Alameda St., Los Angeles, CA 90021",www.guess.com
+818,Westinghouse Air Brake Technologies Corporation,838,Albert J. Neupaver,"1001 Air Brake Ave., Wilmerding, PA 15148",www.wabtec.com
+819,Republic Airways Holdings Inc.,746,Bryan K. Bedford,"8909 Purdue Rd., Indianapolis, IN 46268",www.rjet.com
+820,"Popular, Inc.",875,Richard Carrion,"209 Muñoz Rivera Ave., Hato Rey, PR 00918",www.popular.com
+821,"General Growth Properties, Inc.",794,Sandeep Mathrani,"110 N. Wacker Dr., Chicago, IL 60606",www.ggp.com
+822,Amerco,810,Edward J. Shoen,"1325 Airmotive Way, Reno, NV 89502",www.amerco.com
+823,Service Corporation International,834,Thomas L. Ryan,"1929 Allen Pkwy., Houston, TX 77019",www.sci-corp.com
+824,Beam Suntory Inc.,822,Matthew J. Shattock,"510 Lake Cook Rd., Deerfield, IL 60015",www.beamglobal.com
+825,"IMS Health Holdings, Inc.",-,Ari Bousbib,"83 Wooster Heights Rd., Danbury, CT 06810",www.imshealth.com
+826,"Brown Shoe Company, Inc.",788,Diane M. Sullivan,"8300 Maryland Ave., St. Louis, MO 63105",www.brownshoe.com
+827,"HCC Insurance Holdings, Inc.",805,Christopher J.B. Williams,"13403 Northwest Freeway, Houston, TX 77040",www.hcc.com
+828,"Scripps Networks Interactive, Inc.",855,Kenneth W. Lowe,"9721 Sherrill Blvd., Knoxville, TN 37932",www.scrippsnetworksinteractive.com
+829,Regency Energy Partners LP,-,Michael J. Bradley,"2001 Bryan St., Dallas, TX 75201",www.regencygasservices.com
+830,"AptarGroup, Inc.",852,Stephen J. Hagge,"475 W. Terra Cotta Ave., Crystal Lake, IL 60014",www.aptar.com
+831,Denbury Resources Inc.,824,Phil Rykhoek,"5320 Legacy Dr., Plano, TX 75024",www.denbury.com
+832,Olin Corporation,884,Joseph D. Rupp,"190 Carondelet Plaza, Clayton, MO 63105",www.olin.com
+833,Curtiss-Wright Corporation,914,David C. Adams,"13925 Ballantyne Corporate Place, Charlotte, NC 28277",www.curtisswright.com
+834,Equity Residential,879,David J. Neithercut,"2 N. Riverside Plaza, Chicago, IL 60606",www.equityresidential.com
+835,SunPower Corporation,833,Thomas H. Werner,"77 Rio Robles, San Jose, CA 95134",www.sunpower.com
+836,"Benchmark Electronics, Inc.",821,Gayla J. Delly,"3000 Technology Dr., Angleton, TX 77515",www.bench.com
+837,Education Management Corporation,756,Edward H. West,"210 Sixth Ave., Pittsburgh, PA 15222",www.edmc.com
+838,"BGC Partners, Inc.",-,Howard W. Lutnick,"499 Park Ave., New York, NY 10022","www.bgcpartners,com"
+839,ITT Corporation,861,Denise L. Ramos,"1133 Westchester Ave., White Plains, NY 10604",www.itt.com
+840,ANN INC.,842,Katherine L. Krill,"7 Times Sq., New York, NY 10036",www.anninc.com
+841,"Hologic, Inc.",947,Stephen P. MacMillan,"35 Crosby Dr., Bedford, MA 01730",www.hologic.com
+842,Vectren Corporation,867,Carl L. Chapman,"1 Vectren Sq., Evansville, IN 47708",www.vectren.com
+843,The Wendy’s Company,809,Emil J. Brolick,"1 Dave Thomas Blvd., Dublin, OH 43017",www.aboutwendys.com
+844,Tops Holding II Corporation,-,Frank Curci,"6363 Main St., Williamsville, NY 14221",www.topsmarkets.com
+845,"hhgregg, Inc.",811,Dennis L. May,"4151 E. 96th St., Indianapolis, IN 46240",www.hhgregg.com
+846,"The Men’s Wearhouse, Inc.",813,Douglas S. Ewert,"6380 Rogerdale Rd., Houston, TX 77072",www.menswearhouse.com
+847,"Universal Forest Products, Inc.",932,Matthew J. Missad,"2801 E. Beltline N.E., Grand Rapids, MI 49525",www.ufpi.com
+848,Apria Healthcare Group Inc.,827,Daniel J. Starck,"26220 Enterprise Court, Lake Forest, CA 92630",www.apria.com
+849,"WGL Holdings, Inc.",831,Terry D. McCallister,"101 Constitution Ave. N.W., Washington, DC 20080",www.wglholdings.com
+850,"Tempur Sealy International, Inc.",-,Mark A. Sarvary,"1000 Tempur Way, Lexington, KY 40511",www.tempursealy.com
+851,Pinnacle Foods Inc.,815,Robert J. Gamgort,"399 Jefferson Rd., Parsippany, NJ 07054",www.pinnaclefoods.com
+852,"Applied Industrial Technologies, Inc.",843,Neil A. Schrimsher,"1 Applied Plaza, Cleveland, OH 44115",www.applied.com
+853,Universal Corporation,825,George C. Freeman III,"9201 Forest Hill Ave., Richmond, VA 23235",www.universalcorp.com
+854,"MSC Industrial Direct Co., Inc.",846,Erik Gershwind,"75 Maxess Rd., Melville, NY 11747",www.mscdirect.com
+855,Great Plains Energy Incorporated,854,Terry D. Bassham,"1200 Main St., Kansas City, MO 64105",www.greatplainsenergy.com
+856,"Maxim Integrated Products, Inc.",835,-,"160 Rio Robles, San Jose, CA 95134",www.maximintegrated.com
+857,"Sprouts Farmers Market, Inc.",-,J. Douglas Sanders,"11811 N. Tatum Blvd., Phoenix, AZ 85028",www.sprouts.com
+858,"Donaldson Company, Inc.",812,William M. Cook,"1400 W. 94th St., Minneapolis, MN 55431",www.donaldson.com
+859,"Broadridge Financial Solutions, Inc.",857,Richard J. Daly,"1981 Marcus Ave., Lake Success, NY 11042",www.broadridge.com
+860,"J. Crew Group, Inc.",870,Millard Drexler,"770 Broadway, New York, NY 10003",www.jcrew.com
+861,Kemper Corporation,817,Donald G. Southwell,"1 E. Wacker Dr., Chicago, IL 60601",www.kemper.com
+862,"Sears Hometown and Outlet Stores, Inc.",-,W. Bruce Johnson,"5500 Trillium Blvd., Hoffman Estates, IL 60192",www.shos.com
+863,Momentive Performance Materials Inc.,845,Craig O. Morrison,"260 Hudson River Rd., Waterford, NY 12188",www.momentive.com
+864,Panera Bread Company,907,Ronald M. Shaich,"3630 S. Geyer Rd., St. Louis, MO 63127",www.panerabread.com
+865,Triple-S Management Corporation,832,-,"1441 F.D. Roosevelt Ave., San Juan, PR 00920",www.triplesmanagement.com
+866,Mettler-Toledo International Inc.,849,Olivier A. Filliol,"1900 Polaris Pkwy., Columbus, OH 43240",www.mt.com
+867,Global Payments Inc.,876,Jeffrey S. Sloan,"10 Glenlake Pkwy. , Atlanta, GA 30328",www.globalpaymentsinc.com
+868,"Vishay Intertechnology, Inc.",868,Gerald Paul,"63 Lancaster Ave., Malvern, PA 19355",www.vishay.com
+869,"Westar Energy, Inc.",860,Mark A. Ruelle,"818 S. Kansas Ave., Topeka, KS 66612",www.westarenergy.com
+870,LSI Corporation,808,Abhijit Y. Talwalkar,"1320 Ridder Park Dr., San Jose, CA 95131",www.lsi.com
+871,Kansas City Southern,865,David L. Starling,"427 W. 12th St., Kansas City, MO 64105",www.kcsouthern.com
+872,DSW Inc.,862,Michael R. MacDonald,"810 DSW Dr., Columbus, OH 43219",www.dswinc.com
+873,"MWI Veterinary Supply, Inc.",922,James F. Cleary Jr.,"3041 W. Pasadena Dr., Boise, ID 83705",www.mwivet.com
+874,International Game Technology,899,Patti S. Hart,"6355 S. Buffalo Dr., Las Vegas, NV 89113",www.igt.com
+875,Teledyne Technologies Incorporated,908,Robert Mehrabian,"1049 Camino Dos Rios, Thousand Oaks, CA 91360",www.teledyne.com
+876,"Old Dominion Freight Line, Inc.",913,David S. Congdon,"500 Old Dominion Way, Thomasville, NC 27360",www.odfl.com
+877,"Under Armour, Inc.",992,Kevin A. Plank,"1020 Hull St., Baltimore, MD 21230",www.underarmour.com
+878,"Linn Energy, LLC",-,Mark E. Ellis,"600 Travis St., Houston, TX 77002",www.linnenergy.com
+879,"Paychex, Inc.",869,Martin Mucci,"911 Panorama Trail S., Rochester, NY 14625",www.paychex.com
+880,Taylor Morrison Home Corporation,-,Sheryl D. Palmer,"4900 N. Scottsdale Rd., Scottsdale, AZ 85251",www.taylormorrison.com
+881,Concho Resources Inc.,961,Timothy A. Leach,"600 W. Illinois Ave., Midland, TX 79701",www.concho.com
+882,AOL Inc.,880,Timothy M. Armstrong,"770 Broadway, New York, NY 10003",www.corp.aol.com
+883,Equifax Inc.,895,Richard F. Smith,"1550 Peachtree St. N.W., Atlanta, GA 30309",www.equifax.com
+884,Outerwall Inc.,877,J. Scott DiValerio,"1800 114th Ave. S.E., Bellevue, WA 98004",www.outerwall.com
+885,ManTech International Corporation,791,George J. Pedersen,"12015 Lee Jackson Hwy., Fairfax, VA 22033",www.mantech.com
+886,"Springleaf Holdings, Inc.",-,Jay N. Levine,"601 N.W. Second St., Evansville, IN 47708",www.springleaf.com
+887,Cytec Industries Inc.,677,Shane D. Fleming,"5 Garret Mountain Plaza, Woodland Park, NJ 07424",www.cytec.com
+888,"PriceSmart, Inc.",933,Jose Luis Laparte,"9740 Scranton Rd., San Diego, CA 92121",www.pricesmart.com
+889,ArcBest Corporation,927,Judy R. McReynolds,"3801 Old Greenwood Rd., Fort Smith, AR 72903",www.arkbest.com
+890,"TreeHouse Foods, Inc.",885,Sam K. Reed,"2021 Spring Rd., Oak Brook, IL 60523",www.treehousefoods.com
+891,SM Energy Company,-,Anthony J. Best,"1775 Sherman St., Denver, CO 80203",www.sm-energy.com
+892,Trimble Navigation Limited,935,Steven W. Berglund,"935 Stewart Dr., Sunnyvale, CA 94085",www.trimble.com
+893,"Nortek, Inc.",878,Michael J. Clarke,"50 Kennedy Plaza, Providence, RI 02903",www.nortekinc.com
+894,NewMarket Corporation,871,Thomas E. Gottwald,"330 S. Fourth St., Richmond, VA 23219",www.newmarket.com
+895,Zions Bancorporation,823,Harris H. Simmons,"1 S. Main St., Salt Lake City, UT 84133",www.zionsbancorporation.com
+896,EnerSys,858,John D. Craig,"2366 Bernville Rd., Reading, PA 19605",www.enersysinc.com
+897,"Autodesk, Inc.",853,Carl Bass,"111 McInnis Pkwy., San Rafael, CA 94903",www.autodesk.com
+898,HealthSouth Corporation,892,Jay Grinney,"3660 Grandview Pkwy., Birmingham, AL 35243",www.healthsouth.com
+899,Carpenter Technology Corporation,941,William A. Wulfsohn,"2 Meridian Blvd., Wyomissing, PA 19610",www.cartech.com
+900,Granite Construction Incorporated,921,James H. Roberts,"585 W. Beach St., Watsonville, CA 95076",www.graniteconstruction.com
+901,"Intuitive Surgical, Inc",886,Gary S. Guthart,"1020 Kifer Rd., Sunnyvale, CA 94086",www.intuitivesurgical.com
+902,"Insperity, Inc.",897,Paul J. Sarvadi,"19001 Crescent Springs Dr., Kingwood, TX 77339",www.insperity.com
+903,Monster Beverage Corporation,930,Rodney C. Sacks,"1 Monster Way, Corona, CA 92879",www.monsterbevcorp.com
+904,"Alliance One International, Inc.",898,J. Pieter Sikkel,"8001 Aerial Center Pkwy., Morrisville, NC 27560",www.aointl.com
+905,Kirby Corporation,912,David Grzebinski,"55 Waugh Dr., Houston, TX 77007",www.kirbycorp.com
+906,"Beacon Roofing Supply, Inc.",934,Paul M. Isabella,"505 Huntmar Park Dr., Herndon, VA 20170",www.beaconroofingsupply.com
+907,"Aaron’s, Inc.",872,Ronald W. Allen,"309 E. Paces Ferry Rd. N.E., Atlanta, GA 30305",www.aarons.com
+908,Plexus Corp.,856,Dean A. Foate,"1 Plexus Way, Neenah, WI 54956",www.plexus.com
+909,Titan Machinery Inc.,943,David J. Meyer,"644 E. Beaton Dr., West Fargo, ND 58078",www.titanmachinery.com
+910,Mutual of America Life Insurance Company,905,Thomas J. Moran,"320 Park Ave., New York, NY 10022",www.mutualofamerica.com
+911,"Brocade Communications Systems, Inc.",866,Lloyd A. Carney,"130 Holger Way, San Jose, CA 95134",www.brocade.com
+912,"PC Connection, Inc.",896,Timothy McGrath,"730 Milford Rd., Merrimack, NH 03054",www.pcconnection.com
+913,"Express, Inc.",901,Michael A. Weiss,"1 Express Dr., Columbus, OH 43230",www.express.com
+914,"Alliance Holdings GP, L.P.",940,Joseph W. Craft III,"1717 S. Boulder Ave., Tulsa, OK 74119",www.ahgp.com
+915,"BMC Software, Inc.",890,Robert E. Beauchamp,"2101 CityWest Blvd., Houston, TX 77042",www.bmc.com
+916,EQT Corporation,-,David L. Porges,"625 Liberty Ave., Pittsburgh, PA 15222",www.eqt.com
+917,"Affiliated Managers Group, Inc.",-,Sean M. Healey,"600 Hale St., Prides Crossing, MA 01965",www.amg.com
+918,"KAR Auction Services, Inc.",953,James P. Hallett,"13085 Hamilton Crossing Blvd., Carmel, IN 46032",www.karauctionservices.com
+919,"Xilinx, Inc.",864,Moshe N. Gavrielov,"2100 Logic Dr., San Jose, CA 95124",www.xilinx.com
+920,"PerkinElmer, Inc.",911,Robert F. Friel,"940 Winter St., Waltham, MA 02451",www.perkinelmer.com
+921,"Titan International, Inc.",997,Maurice M. Taylor Jr.,"2701 Spruce St., Quincy, IL 62301",www.titan-intl.com
+922,"A. Schulman, Inc.",915,Joseph M. Gingo,"3637 Ridgewood Rd., Fairlawn, OH 44333",www.aschulman.com
+923,"Martin Marietta Materials, Inc.",936,C. Howard Nye,"2710 Wycliff Rd., Raleigh, NC 27607",www.martinmarietta.com
+924,"Mueller Industries, Inc.",881,Gregory L. Christopher,"8285 Tournament Dr., Memphis, TN 38125",www.muellerindustries.com
+925,Universal American Corp.,888,Richard A. Barasch,"44 S. Broadway, White Plains, NY 10601",www.universalamerican.com
+926,"Hawaiian Holdings, Inc.",954,Mark B. Dunkerley,"3375 Koapaka St., Honolulu, HI 96819",www.hawaiianairlines.com
+927,"Boston Properties, Inc.",980,Owen D. Thomas,"800 Boylston St., Boston, MA 02199",www.bostonproperties.com
+928,"MEDNAX, Inc.",998,Roger J. Medel,"1301 Concord Terrace, Sunrise, FL 33323",www.mednax.com
+929,A.O. Smith Corporation,962,Ajita G. Rajendra,"11270 W. Park Pl., Milwaukee, WI 53224",www.aosmith.com
+930,"Equinix, Inc.",966,Stephen M. Smith,"1 Lagoon Dr., Redwood City, CA 94065",www.equinix.com
+931,BlueLinx Holdings Inc.,974,Mitchell B. Lewis,"4300 Wildwood Pkwy., Atlanta, GA 30339",www.bluelinxco.com
+932,"Stericycle, Inc.",972,Charles A. Alutto,"28161 N. Keith Dr., Lake Forest, IL 60045",www.stericycle.com
+933,"The Ryland Group, Inc.",-,Larry T. Nicholson,"3011 Townsgate Rd., Westlake Village, CA 91361",www.ryland.com
+934,Symetra Financial Corporation,917,Thomas M. Marra,"777 108th Ave. N.E., Bellevue, WA 98004",www.symetra.com
+935,Knights of Columbus,909,Carl A. Anderson,"1 Columbus Plaza, New Haven, CT 06510",www.kofc.org
+936,AAR Corp.,929,David P. Storch,"1100 N. Wood Dale Rd., Wood Dale, IL 60191",www.aarcorp.com
+937,"Heartland Payment Systems, Inc.",942,Robert O. Carr,"90 Nassau St., Princeton, NJ 08542",www.heartlandpaymentsystems.com
+938,Regis Corporation,859,Daniel J. Hanrahan,"7201 Metro Blvd., Edina, MN 55439",www.regiscorp.com
+939,"Bio-Rad Laboratories, Inc.",925,Norman Schwartz,"1000 Alfred Nobel Dr., Hercules, CA 94547",www.bio-rad.com
+940,"Total System Services, Inc.",982,Philip W. Tomlinson,"1 TSYS Way, Columbus, GA 31901",www.tsys.com
+941,"HCP, Inc.",971,Lauralee E. Martin,"3760 Kilroy Airport Way, Long Beach, CA 90806",www.hcpi.com
+942,"Vantiv, Inc.",987,Charles D. Drucker,"8500 Governor's Hill Dr., Symmes Township, OH 45249",www.vantiv.com
+943,"Regeneron Pharmaceuticals, Inc.",-,Leonard S. Schleifer,"777 Old Saw Mill River Rd., Tarrytown, NY 10591",www.regeneron.com
+944,"Tower International, Inc.",837,Mark M. Malcolm,"17672 Laurel Park Dr. N., Livonia, MI 48152",www.towerinternational.com
+945,"The Pep Boys – Manny, Moe & Jack",928,Michael R. Odell,"3111 W. Allegheny Ave., Philadelphia, PA 19132",www.pepboys.com
+946,Louisiana-Pacific Corporation,-,Curtis M. Stevens,"414 Union St., Nashville, TN 37219",www.lpcorp.com
+947,"Willbros Group, Inc.",902,Robert R. Harl,"4400 Post Oak Pkwy., Houston, TX 77027",www.willbros.com
+948,KB Home,-,Jeffrey T. Mezger,"10990 Wilshire Blvd., Los Angeles, CA 90024",www.kbhome.com
+949,"Volt Information Sciences, Inc.",-,Ronald Kochman,"1065 Ave. of the Americas, New York, NY 10018",www.volt.com
+950,"Aeropostale, Inc.",839,Thomas P. Johnson,"112 W. 34th St., New York, NY 10120",www.aeropostale.com
+951,"Acuity Brands, Inc.",964,Vernon J. Nagel,"1170 Peachtree St. N.E., Atlanta, GA 30309",www.acuitybrands.com
+952,Ciena Corporation,993,Gary B. Smith,"7035 Ridge Rd., Hanover, MD 21076",www.ciena.com
+953,Pool Corporation,959,Manuel J. Perez de la Mesa,"109 Northpark Blvd., Covington, LA 70433",www.poolcorp.com
+954,Belden Inc.,963,John S. Stroup,"1 N. Brentwood Blvd., St. Louis, MO 63105",www.belden.com
+955,Ocwen Financial Corporation,-,Ronald M. Faris,"2002 Summit Blvd., Atlanta, GA 30319",www.ocwen.com
+956,HNI Corporation,946,Stanley A. Askren,"408 E. Second St., Muscatine, IA 52761",www.hnicorp.com
+957,H.B. Fuller Company,955,James J. Owens,"1200 Willow Lake Blvd., St. Paul, MN 55110",www.hbfuller.com
+958,Convergys Corporation,906,Andrea J. Ayers,"201 E. Fourth St., Cincinnati, OH 45202",www.convergys.com
+959,Edwards Lifesciences Corporation,976,Michael A. Mussallem,"1 Edwards Way, Irvine, CA 92614",www.edwards.com
+960,Party City Holdings Inc.,-,James M. Harrison,"80 Grasslands Rd., Elmsford, NY 10523",www.partycity.com
+961,The Toro Company,956,Michael J. Hoffman,"8111 Lyndale Ave. S., Bloomington, MN 55420",www.thetorocompany.com
+962,Stifel Financial Corp.,-,Ronald J. Kruszewski,"501 N. Broadway, St. Louis, MO 63102",www.stifel.com
+963,"Werner Enterprises, Inc.",937,Gregory L. Werner,"14507 Frontier Rd., Omaha, NE 68138",www.werner.com
+964,IDEX Corporation,958,Andrew K. Silvernail,"1925 W. Field Court, Lake Forest, IL 60045",www.idexcorp.com
+965,"Tesla Motors, Inc.",-,Elon Musk,"3500 Deer Creek Rd., Palo Alto, CA 94304",www.teslamotors.com
+966,NLV Financial Corporation,-,Mehran Assadi,"1 National Life Dr., Montpelier, VT 05604",www.nationallifegroup.com
+967,"SunEdison, Inc.",803,Ahmad R. Chatila,"501 Pearl Dr., St. Peters, MO 63376",www.sunedison.com
+968,Rexnord Corporation,951,Todd A. Adams,"4701 W. Greenfield Ave., Milwaukee, WI 53214",www.rexnord.com
+969,"Sirva, Inc.",-,Wes W. Lucas,"One Parkview Plaza, Oakbrook Terrace, IL 60181",www.sirva.com
+970,Amica Mutual Insurance Co.,977,Robert A. DiMuccio,"100 Amica Way, Lincoln, RI 02865",www.amica.com
+971,Cimarex Energy Co.,-,Thomas E. Jorden,"1700 Lincoln St., Denver, CO 80203",www.cimarex.com
+972,PAREXEL International Corporation,-,Josef H. von Rickenbach,"195 West St., Waltham, MA 02451",www.parexel.com
+973,"SandRidge Energy, Inc.",764,James D. Bennett,"123 Robert S. Kerr Ave., Oklahoma City, OK 73102",www.sandridgeenergy.com
+974,Public Storage,996,Ronald L. Havner Jr.,"701 Western Ave., Glendale, CA 91201",www.publicstorage.com
+975,American Capital Agency Corp.,-,Malon Wilkus,"2 Bethesda Metro Center, Bethesda, MD 20814",www.agnc.com
+976,"Ferrellgas Partners, L.P.",850,Stephen L. Wambold,"7500 College Blvd., Overland Park, KS 66210",www.ferrellgas.com
+977,Esterline Technologies Corporation,949,Curtis C. Reusser,"500 108th Ave. N.E., Bellevue, WA 98004",www.esterline.com
+978,DeVry Education Group Inc.,918,Daniel M. Hamburger,"3005 Highland Pkwy., Downers Grove, IL 60515",www.devryinc.com
+979,"Synopsys, Inc.",-,"Aart J. de Geus, Chi-Foon Chan","700 E. Middlefield Rd., Mountain View, CA 94043",www.synopsys.com
+980,E*Trade Financial Corporation,883,Paul T. Idzik,"1271 Ave. of the Americas, New York, NY 10020",www.etrade.com
+981,Emeritus Corporation,-,Granger Cobb,"3131 Elliott Ave., Seattle, WA 98121",www.emeritus.com
+982,"Valhi, Inc.",874,Steven L. Watson,"5430 L.B.J. Freeway, Dallas, TX 75240",www.valhi.net
+983,Southwest Gas Corporation,965,Jeffrey W. Shaw,"5241 Spring Mountain Rd., Las Vegas, NV 89150",www.swgas.com
+984,"Itron, Inc.",887,Philip C. Mezey,"2111 N. Molter Rd., Liberty Lake, WA 99019",www.itron.com
+985,"Michael Foods Group, Inc",989,James E. Dwyer Jr.,"301 Carlson Pkwy., Minnetonka, MN 55305",www.michaelfoods.com
+986,"Crosstex Energy, Inc.",-,Barry E. Davis,"2501 Cedar Springs , Dallas, TX 75201",www.enlink.com
+987,Primoris Services Corporation,-,Brian Pratt,"2100 McKinney Ave., Dallas, TX 75201",www.prim.com
+988,Standard Pacific Corp.,-,Scott D. Stowell,"15360 Barranca Pkwy., Irvine, CA 92618",www.standardpacifichomes.com
+989,"Fred’s, Inc.",957,Bruce A. Efird,"4300 New Getwell Rd., Memphis, TN 38118",www.fredsinc.com
+990,EP Energy Corporation,-,Brent J. Smolik,"1001 Louisiana St., Houston, TX 77002",www.epenergy.com
+991,"Woodward, Inc.",985,Thomas A. Gendron,"1000 E. Drake Rd., Fort Collins, CO 80525",www.woodward.com
+992,Lehigh Gas Partners LP,978,Joseph V. Topper Jr.,"702 W. Hamilton St., Allentown, PA 18101",www.lehighgaspartners.com
+993,"Waste Connections, Inc.",-,Ronald J. Mittelstaedt,"3 Waterway Square Place, The Woodlands, TX 77380",www.wasteconnections.com
+994,Stewart Information Services Corporation,973,Matthew W. Morris,"1980 Post Oak Blvd., Houston, TX 77056",www.stewart.com
+995,"New York Community Bancorp, Inc.",920,Joseph R. Ficalora,"615 Merrick Ave., Westbury, NY 11590",www.mynycb.com
+996,"Allison Transmission Holdings, Inc.",903,Lawrence E. Dewey,"1 Allison Way, Indianaoplis, IN 46222",www.allisontransmission.com
+997,TransDigm Group Incorporated,-,W. Nicholas Howley,"1301 E. Ninth St., Cleveland, OH 44114",www.transdigm.com
+998,Waters Corporation,991,Douglas A. Berthiaume,"34 Maple St., Milford, MA 01757",www.waters.com
+999,"Selective Insurance Group, Inc.",-,Gregory E. Murphy,"40 Wantage Ave., Branchville, NJ 07890",www.selective.com
+1000,"Magellan Midstream Partners, L.P.",-,Michael N. Mears,"1 Williams Center, Tulsa, OK 74172",www.magellanlp.com
