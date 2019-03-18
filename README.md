@@ -1,8 +1,3 @@
-title: Readme.md
-author: Xiu
-date: 2019-03-15 19:09:12
-tags:
----
 # Fortune 1000 crawler
 
 ## Description
@@ -37,16 +32,25 @@ http://fortune.com/api/v2/list/{year_code}/expand/item/ranking/asc/{start_from}/
 
 {year_code} can be found in a HTTP request. An example to obtain this parameter with Chrome is shown as follows.
 
+For 2015:
 
 ![2015](/images/2015.png)
 
+For 2016:
+
 ![2016](/images/2016.png)
 
+For 2017:
+
 ![2017](/images/2017.png)
+
+For 2018:
 
 ![2018](/images/2018.png)
 
 In this way, the corresponding code to each year can be obtained.
+
+Append this dict to adjust to future years.
 
 ```python
 dict_api_code = {'2015': '1141696', '2016': '1666518', '2017': '2013055', '2018': '2358051'}
